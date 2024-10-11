@@ -1,0 +1,6501 @@
+[
+  {
+    "directors": [
+      {
+        "_id": 1,
+        "imdb": "nm1989536",
+        "name": "Marc Webb"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      }
+    ],
+    "imdb": "tt1022603",
+    "_id": 1,
+    "title": "500 Days Of Summer",
+    "year": 2007
+  },
+  {
+    "directors": [
+      {
+        "_id": 2,
+        "imdb": "nm0001382",
+        "name": "Peter Hyams"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Mystery",
+        "_id": 4
+      }
+    ],
+    "imdb": "tt1183251",
+    "_id": 2,
+    "title": "Beyond a Reasonable Doubt",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 3,
+        "imdb": "nm0004410",
+        "name": "Mark Neveldine"
+      },
+      {
+        "_id": 4,
+        "imdb": "nm0962729",
+        "name": "Brian Taylor"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Action",
+        "_id": 5
+      },
+      {
+        "name": "Sci-Fi",
+        "_id": 6
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt1034032",
+    "_id": 3,
+    "title": "Gamer",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 5,
+        "imdb": "nm0001241",
+        "name": "Stephen Frears"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      }
+    ],
+    "imdb": "tt1179258",
+    "_id": 4,
+    "title": "Cheri",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 6,
+        "imdb": "nm0662529",
+        "name": "Oliver Parker"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt1235124",
+    "_id": 5,
+    "title": "Dorian Gray",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 7,
+        "imdb": "nm0000233",
+        "name": "Quentin Tarantino"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "War",
+        "_id": 8
+      }
+    ],
+    "imdb": "tt0361748",
+    "_id": 6,
+    "title": "Inglourious Basterds",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 8,
+        "imdb": "nm0000142",
+        "name": "Clint Eastwood"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Biography",
+        "_id": 9
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "History",
+        "_id": 10
+      }
+    ],
+    "imdb": "tt1057500",
+    "_id": 7,
+    "title": "Invictus",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 9,
+        "imdb": "nm0001188",
+        "name": "Nora Ephron"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Biography",
+        "_id": 9
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      }
+    ],
+    "imdb": "tt1135503",
+    "_id": 8,
+    "title": "Julie and Julia",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 10,
+        "imdb": "nm0000264",
+        "name": "Pedro Almodovar"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      }
+    ],
+    "imdb": "tt0913425",
+    "_id": 9,
+    "title": "Los abrazos rotos",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 11,
+        "imdb": "nm0000641",
+        "name": "Gary Sinise"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt0105046",
+    "_id": 10,
+    "title": "Of Mice and Men",
+    "year": 1992
+  },
+  {
+    "directors": [
+      {
+        "_id": 12,
+        "imdb": "nm0030735",
+        "name": "Nimród Antal"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Action",
+        "_id": 5
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt0913354",
+    "_id": 11,
+    "title": "Armored",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 13,
+        "imdb": "nm3692009",
+        "name": "?nan Temelkuran"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt1548542",
+    "_id": 12,
+    "title": "Bornova Bornova",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 14,
+        "imdb": "nm0284774",
+        "name": "Anne Fontaine"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Biography",
+        "_id": 9
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt1035736",
+    "_id": 13,
+    "title": "Coco avant Chanel",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 15,
+        "imdb": "nm2896395",
+        "name": "Levent Semerci"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Action",
+        "_id": 5
+      },
+      {
+        "name": "Adventure",
+        "_id": 11
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "War",
+        "_id": 8
+      }
+    ],
+    "imdb": "tt1171701",
+    "_id": 14,
+    "title": "Nefes: Vatan sa?olsun",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 16,
+        "imdb": "nm0230032",
+        "name": "Pete Docter"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Animation",
+        "_id": 12
+      },
+      {
+        "name": "Adventure",
+        "_id": 11
+      },
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Family",
+        "_id": 13
+      }
+    ],
+    "imdb": "tt1049413",
+    "_id": 15,
+    "title": "Up",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 17,
+        "imdb": "nm0784061",
+        "name": "Dominic Sena"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Action",
+        "_id": 5
+      },
+      {
+        "name": "Crime",
+        "_id": 14
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Mystery",
+        "_id": 4
+      }
+    ],
+    "imdb": "tt0365929",
+    "_id": 16,
+    "title": "Whiteout",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 18,
+        "imdb": "nm0777881",
+        "name": "Robert Schwentke"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Sci-Fi",
+        "_id": 6
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      }
+    ],
+    "imdb": "tt0452694",
+    "_id": 17,
+    "title": "The Time Travelers Wife",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 19,
+        "imdb": "nm0000095",
+        "name": "Woody Allen"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      }
+    ],
+    "imdb": "tt1178663",
+    "_id": 18,
+    "title": "Whatever Works",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 20,
+        "imdb": "nm0299621",
+        "name": "Max Färberböck"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "War",
+        "_id": 8
+      }
+    ],
+    "imdb": "tt1035730",
+    "_id": 19,
+    "title": "Anonyma - Eine Frau in Berlin",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 21,
+        "imdb": "nm0281508",
+        "name": "Ruben Fleischer"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Action",
+        "_id": 5
+      },
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Horror",
+        "_id": 15
+      }
+    ],
+    "imdb": "tt1156398",
+    "_id": 20,
+    "title": "Zombieland",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 22,
+        "imdb": "nm0915814",
+        "name": "Blayne Weaver"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Comedy",
+        "_id": 1
+      }
+    ],
+    "imdb": "tt1085515",
+    "_id": 21,
+    "title": "Weather Girl",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 23,
+        "imdb": "nm0811583",
+        "name": "Zack Snyder"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Action",
+        "_id": 5
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Mystery",
+        "_id": 4
+      },
+      {
+        "name": "Sci-Fi",
+        "_id": 6
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt0409459",
+    "_id": 22,
+    "title": "Watchmen",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 24,
+        "imdb": "nm0001707",
+        "name": "Paul Schrader"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "War",
+        "_id": 8
+      }
+    ],
+    "imdb": "tt0479341",
+    "_id": 23,
+    "title": "Adam Resurrected",
+    "year": 2008
+  },
+  {
+    "directors": [
+      {
+        "_id": 25,
+        "imdb": "nm0000165",
+        "name": "Ron Howard"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Mystery",
+        "_id": 4
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt0808151",
+    "_id": 24,
+    "title": "Angels and Deamons",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 26,
+        "imdb": "nm0005222",
+        "name": "Sam Mendes"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt1176740",
+    "_id": 25,
+    "title": "Away We Go",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 27,
+        "imdb": "nm1380395",
+        "name": "Glendyn Ivin"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt1235142",
+    "_id": 26,
+    "title": "Last Ride",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 28,
+        "imdb": "nm0382956",
+        "name": "Scott Hicks"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt0926380",
+    "_id": 27,
+    "title": "The Boys Are Back",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 29,
+        "imdb": "nm0527109",
+        "name": "Rod Lurie"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt1073241",
+    "_id": 28,
+    "title": "Nothing But the Truth",
+    "year": 2008
+  },
+  {
+    "directors": [
+      {
+        "_id": 30,
+        "imdb": "nm0714599",
+        "name": "Eric Red"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Horror",
+        "_id": 15
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt0899128",
+    "_id": 29,
+    "title": "100 Feet",
+    "year": 2008
+  },
+  {
+    "directors": [
+      {
+        "_id": 31,
+        "imdb": "nm1470993",
+        "name": "Scott Mann"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Action",
+        "_id": 5
+      }
+    ],
+    "imdb": "tt0471041",
+    "_id": 30,
+    "title": "The Tournament",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 32,
+        "imdb": "nm0836715",
+        "name": "Philipp Stölzl"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Adventure",
+        "_id": 11
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "History",
+        "_id": 10
+      },
+      {
+        "name": "Sport",
+        "_id": 16
+      }
+    ],
+    "imdb": "tt0844457",
+    "_id": 31,
+    "title": "Nordwand",
+    "year": 2008
+  },
+  {
+    "directors": [
+      {
+        "_id": 33,
+        "imdb": "nm0001053",
+        "name": "Ethan Coen"
+      },
+      {
+        "_id": 34,
+        "imdb": "nm0001054",
+        "name": "Joel Coen"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt1019452",
+    "_id": 32,
+    "title": "A Serious Man",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 35,
+        "imdb": "nm0340436",
+        "name": "Kevin Greutert"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Crime",
+        "_id": 14
+      },
+      {
+        "name": "Horror",
+        "_id": 15
+      },
+      {
+        "name": "Mystery",
+        "_id": 4
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt1233227",
+    "_id": 33,
+    "title": "Saw VI",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 36,
+        "imdb": "nm0888418",
+        "name": "Marina de Van"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt1075113",
+    "_id": 34,
+    "title": "Ne te retourne pas",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 37,
+        "imdb": "nm0088955",
+        "name": "Neill Blomkamp"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Action",
+        "_id": 5
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Sci-Fi",
+        "_id": 6
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt1136608",
+    "_id": 35,
+    "title": "District 9",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 38,
+        "imdb": "nm0431918",
+        "name": "Mike Judge"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Comedy",
+        "_id": 1
+      }
+    ],
+    "imdb": "tt1225822",
+    "_id": 36,
+    "title": "Extract",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 39,
+        "imdb": "nm0386570",
+        "name": "Oliver Hirschbiegel"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Crime",
+        "_id": 14
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt1238291",
+    "_id": 37,
+    "title": "Five Minutes of Haven",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 40,
+        "imdb": "nm0946750",
+        "name": "Gary Yates"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt1143110",
+    "_id": 38,
+    "title": "High Life",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 41,
+        "imdb": "nm0281945",
+        "name": "Anne Fletcher"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      }
+    ],
+    "imdb": "tt1041829",
+    "_id": 39,
+    "title": "The Proposal",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 42,
+        "imdb": "nm1369721",
+        "name": "Emily Young"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt1068678",
+    "_id": 40,
+    "title": "Veronika Decides to Die",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 43,
+        "imdb": "nm0264236",
+        "name": "Richard Eyre"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt0974613",
+    "_id": 41,
+    "title": "The Other Man",
+    "year": 2008
+  },
+  {
+    "directors": [
+      {
+        "_id": 44,
+        "imdb": "nm0107366",
+        "name": "Neal Brennan"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Comedy",
+        "_id": 1
+      }
+    ],
+    "imdb": "tt1092633",
+    "_id": 42,
+    "title": "The Goods: Live Hard, Sell Hard",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 45,
+        "imdb": "nm0680846",
+        "name": "Todd Phillips"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Adventure",
+        "_id": 11
+      },
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Crime",
+        "_id": 14
+      }
+    ],
+    "imdb": "tt1119646",
+    "_id": 43,
+    "title": "The Hangover",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 46,
+        "imdb": "nm0000520",
+        "name": "Micheal Mann"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Biography",
+        "_id": 9
+      },
+      {
+        "name": "Crime",
+        "_id": 14
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "History",
+        "_id": 10
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt1152836",
+    "_id": 44,
+    "title": "Public Enemies",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 47,
+        "imdb": "nm0000750",
+        "name": "Jon Amiel"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Biography",
+        "_id": 9
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt0974014",
+    "_id": 45,
+    "title": "Creation",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 48,
+        "imdb": "nm0619762",
+        "name": "Mira Nair"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Biography",
+        "_id": 9
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt1129445",
+    "_id": 46,
+    "title": "Amelia",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 49,
+        "imdb": "nm0294505",
+        "name": "Bart Freundlich"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      }
+    ],
+    "imdb": "tt1205535",
+    "_id": 47,
+    "title": "The Rebound",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 50,
+        "imdb": "nm0119613",
+        "name": "Timothy Linh Bui"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt1032819",
+    "_id": 48,
+    "title": "Powder Blue",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 51,
+        "imdb": "nm0381416",
+        "name": "Grant Heslov"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "War",
+        "_id": 8
+      }
+    ],
+    "imdb": "tt1234548",
+    "_id": 49,
+    "title": "The Men Who Stare at Goats",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 52,
+        "imdb": "nm0001005",
+        "name": "Jane Campion"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Biography",
+        "_id": 9
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      }
+    ],
+    "imdb": "tt0810784",
+    "_id": 50,
+    "title": "Bright Star",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 53,
+        "imdb": "nm0023355",
+        "name": "Christian Alvert"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Horror",
+        "_id": 15
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt0795351",
+    "_id": 51,
+    "title": "Case 39",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 54,
+        "imdb": "nm1754436",
+        "name": "Sophie Barthes"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt1127877",
+    "_id": 52,
+    "title": "Cold Souls",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 55,
+        "imdb": "nm1512910",
+        "name": "Duncan Jones"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Mystery",
+        "_id": 4
+      },
+      {
+        "name": "Sci-Fi",
+        "_id": 6
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt1182345",
+    "_id": 53,
+    "title": "Moon",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 56,
+        "imdb": "nm0001281",
+        "name": "Bobcat Goldthwait"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt1262981",
+    "_id": 54,
+    "title": "Worlds Greatest Dad",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 57,
+        "imdb": "nm2305431",
+        "name": "Oren Peli"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Horror",
+        "_id": 15
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt1179904",
+    "_id": 55,
+    "title": "Paranormal Activity",
+    "year": 2007
+  },
+  {
+    "directors": [
+      {
+        "_id": 58,
+        "imdb": "nm0531817",
+        "name": "Kevin Macdonald"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Mystery",
+        "_id": 4
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt0473705",
+    "_id": 56,
+    "title": "State of Play",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 59,
+        "imdb": "nm0214320",
+        "name": "Andy DeEmmony"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt1173494",
+    "_id": 57,
+    "title": "God on Trial",
+    "year": 2008
+  },
+  {
+    "directors": [
+      {
+        "_id": 60,
+        "imdb": "nm0426059",
+        "name": "Rian Johnson"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Adventure",
+        "_id": 11
+      },
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Crime",
+        "_id": 14
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      }
+    ],
+    "imdb": "tt0844286",
+    "_id": 58,
+    "title": "The Brothers Bloom",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 61,
+        "imdb": "nm0518644",
+        "name": "Richard Loncraine"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt1185431",
+    "_id": 59,
+    "title": "My One and Only",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 62,
+        "imdb": "nm0649117",
+        "name": "Niels Arden Oplev"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Crime",
+        "_id": 14
+      },
+      {
+        "name": "Mystery",
+        "_id": 4
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt1132620",
+    "_id": 60,
+    "title": "Män Som Hatar Kvinnor",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 63,
+        "imdb": "nm0254178",
+        "name": "Adam Elliot"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Animation",
+        "_id": 12
+      },
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt0978762",
+    "_id": 61,
+    "title": "Mary and Max",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 64,
+        "imdb": "nm0000464",
+        "name": "Jim Jarmusch"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Crime",
+        "_id": 14
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt0978762",
+    "_id": 62,
+    "title": "The Limits of Control",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 65,
+        "imdb": "nm0420422",
+        "name": "Christine Jeffs"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt0862846",
+    "_id": 63,
+    "title": "Sunshine Cleaning",
+    "year": 2008
+  },
+  {
+    "directors": [
+      {
+        "_id": 66,
+        "imdb": "nm0878638",
+        "name": "David Twohy"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Horror",
+        "_id": 15
+      },
+      {
+        "name": "Mystery",
+        "_id": 4
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt0971209",
+    "_id": 64,
+    "title": "A Perfect Getaway",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 67,
+        "imdb": "nm0001024",
+        "name": "Nick Cassavetes"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt1078588",
+    "_id": 65,
+    "title": "My Sisters Keeper",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 68,
+        "imdb": "nm0465551",
+        "name": "Martin Koolhoven"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "History",
+        "_id": 10
+      },
+      {
+        "name": "War",
+        "_id": 8
+      }
+    ],
+    "imdb": "tt0795441",
+    "_id": 66,
+    "title": "Oorlogswinter",
+    "year": 2008
+  },
+  {
+    "directors": [
+      {
+        "_id": 69,
+        "imdb": "nm3360961",
+        "name": "Jorge Blanco"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Animation",
+        "_id": 12
+      },
+      {
+        "name": "Adventure",
+        "_id": 11
+      },
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Family",
+        "_id": 13
+      },
+      {
+        "name": "Fantasy",
+        "_id": 17
+      }
+    ],
+    "imdb": "tt0762125",
+    "_id": 67,
+    "title": "Planet 51",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 70,
+        "imdb": "nm0541391",
+        "name": "Milcho Manchevski"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "War",
+        "_id": 8
+      }
+    ],
+    "imdb": "tt0110882",
+    "_id": 68,
+    "title": "Before the Rain",
+    "year": 1994
+  },
+  {
+    "directors": [
+      {
+        "_id": 71,
+        "imdb": "nm0357453",
+        "name": "John Hamburg"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      }
+    ],
+    "imdb": "tt1155056",
+    "_id": 69,
+    "title": "I Love You, Man",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 72,
+        "imdb": "nm0002948",
+        "name": "Costas Ferris"
+      },
+      {
+        "_id": 48,
+        "imdb": "nm0619762",
+        "name": "Mira Nair"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Biography",
+        "_id": 9
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "History",
+        "_id": 10
+      },
+      {
+        "name": "Music",
+        "_id": 18
+      },
+      {
+        "name": "War",
+        "_id": 8
+      },
+      {
+        "name": "Biography",
+        "_id": 9
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Biography",
+        "_id": 9
+      },
+      {
+        "name": "Biography",
+        "_id": 9
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Biography",
+        "_id": 9
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Biography",
+        "_id": 9
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Biography",
+        "_id": 9
+      },
+      {
+        "name": "Biography",
+        "_id": 9
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Biography",
+        "_id": 9
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Biography",
+        "_id": 9
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Biography",
+        "_id": 9
+      }
+    ],
+    "imdb": "tt0086182",
+    "_id": 70,
+    "title": "Rembetiko",
+    "year": 1983
+  },
+  {
+    "directors": [],
+    "genres": [],
+    "imdb": "tt1129445",
+    "_id": 71,
+    "title": "Amelia",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 73,
+        "imdb": "nm0393799",
+        "name": "Tom Hooper"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Biography",
+        "_id": 9
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Sport",
+        "_id": 16
+      }
+    ],
+    "imdb": "tt1226271",
+    "_id": 72,
+    "title": "The Damned United",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 74,
+        "imdb": "nm0932882",
+        "name": "Paul Wilmshurst"
+      }
+    ],
+    "genres": [
+      {
+        "name": "History",
+        "_id": 10
+      }
+    ],
+    "imdb": "tt0475296",
+    "_id": 73,
+    "title": "Hiroshima",
+    "year": 2005
+  },
+  {
+    "directors": [
+      {
+        "_id": 75,
+        "imdb": "nm0015359",
+        "name": "Fatih Akın"
+      },
+      {
+        "_id": 76,
+        "imdb": "nm0040939",
+        "name": "Yvan Attal"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      }
+    ],
+    "imdb": "tt0808399",
+    "_id": 74,
+    "title": "New York, I Love You",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 77,
+        "imdb": "nm0036349",
+        "name": "Andrea Arnold"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt1232776",
+    "_id": 75,
+    "title": "Fish Tank",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 78,
+        "imdb": "nm0001752",
+        "name": "Steven Soderbergh"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Crime",
+        "_id": 14
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt1130080",
+    "_id": 76,
+    "title": "The Informant!",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 79,
+        "imdb": "nm0006867",
+        "name": "John Kent Harrison"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Biography",
+        "_id": 9
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt1010278",
+    "_id": 77,
+    "title": "The Courageous Heart of Irena Sendler",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 80,
+        "imdb": "nm0772691",
+        "name": "Hans-Christian Schmid"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt0768239",
+    "_id": 78,
+    "title": "Storm",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 81,
+        "imdb": "nm0001486",
+        "name": "Sidney Lumet"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Crime",
+        "_id": 14
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt0292963",
+    "_id": 79,
+    "title": "Before the Devil Knows You are Dead",
+    "year": 2007
+  },
+  {
+    "directors": [
+      {
+        "_id": 82,
+        "imdb": "nm1247462",
+        "name": "Christopher Smith"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Horror",
+        "_id": 15
+      },
+      {
+        "name": "Mystery",
+        "_id": 4
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt1187064",
+    "_id": 80,
+    "title": "Triangle",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 83,
+        "imdb": "nm0836328",
+        "name": "John Sturges"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Action",
+        "_id": 5
+      },
+      {
+        "name": "Adventure",
+        "_id": 11
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      },
+      {
+        "name": "War",
+        "_id": 8
+      },
+      {
+        "name": "Horror",
+        "_id": 15
+      }
+    ],
+    "imdb": "tt0057115",
+    "_id": 81,
+    "title": "The Great Escape",
+    "year": 1963
+  },
+  {
+    "directors": [
+      {
+        "_id": 84,
+        "imdb": "nm0000386",
+        "name": "Roland Emmerich"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Action",
+        "_id": 5
+      },
+      {
+        "name": "Adventure",
+        "_id": 11
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Sci-Fi",
+        "_id": 6
+      }
+    ],
+    "imdb": "tt1190080",
+    "_id": 82,
+    "title": "2012",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 85,
+        "imdb": "nm0861899",
+        "name": "Jamie Thraves"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt1034302",
+    "_id": 83,
+    "title": "The Cry of the Owl",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 86,
+        "imdb": "nm3347823",
+        "name": "Vikram K. Kumar"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Horror",
+        "_id": 15
+      },
+      {
+        "name": "Mystery",
+        "_id": 4
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt1385824",
+    "_id": 84,
+    "title": "13B",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 87,
+        "imdb": "nm0000697",
+        "name": "Billy Wilder"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Crime",
+        "_id": 14
+      },
+      {
+        "name": "Film-Noir",
+        "_id": 19
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt0036775",
+    "_id": 85,
+    "title": "Double Indemnity",
+    "year": 1944
+  },
+  {
+    "directors": [
+      {
+        "_id": 88,
+        "imdb": "nm0001351",
+        "name": "George Roy Hill"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Adventure",
+        "_id": 11
+      },
+      {
+        "name": "Crime",
+        "_id": 14
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Western",
+        "_id": 20
+      }
+    ],
+    "imdb": "tt0064115",
+    "_id": 86,
+    "title": "Butch Cassidy and the Sundance Kid",
+    "year": 1969
+  },
+  {
+    "directors": [
+      {
+        "_id": 89,
+        "imdb": "nm0002728",
+        "name": "Juan José Campanella"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Crime",
+        "_id": 14
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Mystery",
+        "_id": 4
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt1305806",
+    "_id": 87,
+    "title": "El secreto de sus ojos",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 90,
+        "imdb": "nm0906667",
+        "name": "Andrzej Wajda"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Biography",
+        "_id": 9
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "History",
+        "_id": 10
+      }
+    ],
+    "imdb": "tt0083789",
+    "_id": 88,
+    "title": "Danton",
+    "year": 1983
+  },
+  {
+    "directors": [
+      {
+        "_id": 91,
+        "imdb": "nm0000454",
+        "name": "Dennis Hopper"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Crime",
+        "_id": 14
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt0064276",
+    "_id": 89,
+    "title": "Easy Rider",
+    "year": 1969
+  },
+  {
+    "directors": [
+      {
+        "_id": 92,
+        "imdb": "nm0609236",
+        "name": "Jonathan Mostow"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Action",
+        "_id": 5
+      },
+      {
+        "name": "Sci-Fi",
+        "_id": 6
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt0986263",
+    "_id": 90,
+    "title": "Surrogates",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 81,
+        "imdb": "nm0001486",
+        "name": "Sidney Lumet"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Crime",
+        "_id": 14
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt0072890",
+    "_id": 91,
+    "title": "Dog Day Afternoon",
+    "year": 1975
+  },
+  {
+    "directors": [
+      {
+        "_id": 93,
+        "imdb": "nm0001415",
+        "name": "Elia Kazan"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt0044081",
+    "_id": 92,
+    "title": "A Streetcar Named Desire",
+    "year": 1951
+  },
+  {
+    "directors": [
+      {
+        "_id": 87,
+        "imdb": "nm0000697",
+        "name": "Billy Wilder"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Film-Noir",
+        "_id": 19
+      }
+    ],
+    "imdb": "tt0043014",
+    "_id": 93,
+    "title": "Sunset Blvd.",
+    "year": 1950
+  },
+  {
+    "directors": [
+      {
+        "_id": 81,
+        "imdb": "nm0001486",
+        "name": "Sidney Lumet"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt0074958",
+    "_id": 94,
+    "title": "Network",
+    "year": 1976
+  },
+  {
+    "directors": [
+      {
+        "_id": 94,
+        "imdb": "nm0000033",
+        "name": "Alfred Hitchcock"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Crime",
+        "_id": 14
+      },
+      {
+        "name": "Mystery",
+        "_id": 4
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt0052357",
+    "_id": 95,
+    "title": "Vertigo",
+    "year": 1958
+  },
+  {
+    "directors": [
+      {
+        "_id": 95,
+        "imdb": "nm1104118",
+        "name": "Ki-duk Kim"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt0374546",
+    "_id": 96,
+    "title": "Bom yeoreum gaeul gyeoul geurigo bom",
+    "year": 2003
+  },
+  {
+    "directors": [
+      {
+        "_id": 96,
+        "imdb": "nm0235066",
+        "name": "Gordon Douglas"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Sci-Fi",
+        "_id": 6
+      },
+      {
+        "name": "Horror",
+        "_id": 15
+      }
+    ],
+    "imdb": "tt0047573",
+    "_id": 97,
+    "title": "Them!",
+    "year": 1954
+  },
+  {
+    "directors": [
+      {
+        "_id": 95,
+        "imdb": "nm1104118",
+        "name": "Ki-duk Kim"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Crime",
+        "_id": 14
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      }
+    ],
+    "imdb": "tt0423866",
+    "_id": 98,
+    "title": "Bin-jip",
+    "year": 2004
+  },
+  {
+    "directors": [
+      {
+        "_id": 97,
+        "imdb": "nm0497565",
+        "name": "John H. Lee"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      }
+    ],
+    "imdb": "tt0428870",
+    "_id": 99,
+    "title": "Nae meorisokui jiwoogae",
+    "year": 2004
+  },
+  {
+    "directors": [
+      {
+        "_id": 95,
+        "imdb": "nm1104118",
+        "name": "Ki-duk Kim"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      }
+    ],
+    "imdb": "tt0456470",
+    "_id": 100,
+    "title": "Hwal",
+    "year": 2005
+  },
+  {
+    "directors": [
+      {
+        "_id": 98,
+        "imdb": "nm1536497",
+        "name": "Hae-jun Lee"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt1499666",
+    "_id": 101,
+    "title": "Kimssi pyoryugi",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 99,
+        "imdb": "nm3312722",
+        "name": "Mahmut Fazıl Coşkun"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt1366981",
+    "_id": 102,
+    "title": "Uzak İhtimal",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 100,
+        "imdb": "nm1294961",
+        "name": "Michael Spierig"
+      },
+      {
+        "_id": 101,
+        "imdb": "nm1294962",
+        "name": "Peter Spierig"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Action",
+        "_id": 5
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Horror",
+        "_id": 15
+      },
+      {
+        "name": "Sci-Fi",
+        "_id": 6
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt0433362",
+    "_id": 103,
+    "title": "Daybreakers",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 95,
+        "imdb": "nm1104118",
+        "name": "Ki-duk Kim"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Fantasy",
+        "_id": 17
+      },
+      {
+        "name": "Mystery",
+        "_id": 4
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      }
+    ],
+    "imdb": "tt1165253",
+    "_id": 104,
+    "title": "Bin-mong",
+    "year": 2008
+  },
+  {
+    "directors": [
+      {
+        "_id": 102,
+        "imdb": "nm0661791",
+        "name": "Chan-wook Park"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Mystery",
+        "_id": 4
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt0364569",
+    "_id": 105,
+    "title": "Oldboy",
+    "year": 2003
+  },
+  {
+    "directors": [
+      {
+        "_id": 103,
+        "imdb": "nm0618779",
+        "name": "Ruba Nadda"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      }
+    ],
+    "imdb": "tt0896529",
+    "_id": 106,
+    "title": "Cairo Time",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 104,
+        "imdb": "nm0394114",
+        "name": "Ben Hopkins"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt1286165",
+    "_id": 107,
+    "title": "Pazar - Bir Ticaret Masalı",
+    "year": 2008
+  },
+  {
+    "directors": [
+      {
+        "_id": 105,
+        "imdb": "nm3174775",
+        "name": "Louie Psihoyos"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Documentary",
+        "_id": 21
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt1313104",
+    "_id": 108,
+    "title": "The Cove",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 106,
+        "imdb": "nm0689852",
+        "name": "John Polson"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Crime",
+        "_id": 14
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt0494864",
+    "_id": 109,
+    "title": "Tenderness",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 107,
+        "imdb": "nm0002120",
+        "name": "Lasse Hallström"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Family",
+        "_id": 13
+      }
+    ],
+    "imdb": "tt1028532",
+    "_id": 110,
+    "title": "Hachiko: A Dogs Story",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 108,
+        "imdb": "nm0001379",
+        "name": "John Huston"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Adventure",
+        "_id": 11
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Western",
+        "_id": 20
+      },
+      {
+        "name": "Action",
+        "_id": 5
+      }
+    ],
+    "imdb": "tt0040897",
+    "_id": 111,
+    "title": "The Treasure of the Sierra Madre",
+    "year": 1948
+  },
+  {
+    "directors": [
+      {
+        "_id": 109,
+        "imdb": "nm0003606",
+        "name": "Philippe de Broca"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Action",
+        "_id": 5
+      },
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Fantasy",
+        "_id": 17
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      }
+    ],
+    "imdb": "tt0070354",
+    "_id": 112,
+    "title": "Le magnifique",
+    "year": 1973
+  },
+  {
+    "directors": [
+      {
+        "_id": 110,
+        "imdb": "nm0001175",
+        "name": "Blake Edwards"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Comedy",
+        "_id": 1
+      }
+    ],
+    "imdb": "tt0063415",
+    "_id": 113,
+    "title": "The Party",
+    "year": 1968
+  },
+  {
+    "directors": [
+      {
+        "_id": 111,
+        "imdb": "nm0446819",
+        "name": "Richard Kelly"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Horror",
+        "_id": 15
+      },
+      {
+        "name": "Mystery",
+        "_id": 4
+      },
+      {
+        "name": "Sci-Fi",
+        "_id": 6
+      }
+    ],
+    "imdb": "tt0362478",
+    "_id": 114,
+    "title": "The Box",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 112,
+        "imdb": "nm0428600",
+        "name": "Kirk Jones"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt0780511",
+    "_id": 115,
+    "title": "Everybodys Fine",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 113,
+        "imdb": "nm2842549",
+        "name": "Jay DiPietro"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      }
+    ],
+    "imdb": "tt1144551",
+    "_id": 116,
+    "title": "Peter and Vandy",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 94,
+        "imdb": "nm0000033",
+        "name": "Alfred Hitchcock"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Horror",
+        "_id": 15
+      },
+      {
+        "name": "Mystery",
+        "_id": 4
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt0054215",
+    "_id": 117,
+    "title": "Psycho",
+    "year": 1960
+  },
+  {
+    "directors": [
+      {
+        "_id": 114,
+        "imdb": "nm0349406",
+        "name": "Sebastian Gutierrez"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Comedy",
+        "_id": 1
+      }
+    ],
+    "imdb": "tt1247704",
+    "_id": 118,
+    "title": "Women in Trouble",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 115,
+        "imdb": "nm0000041",
+        "name": "Akira Kurosawa"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Action",
+        "_id": 5
+      },
+      {
+        "name": "Adventure",
+        "_id": 11
+      }
+    ],
+    "imdb": "tt0047478",
+    "_id": 119,
+    "title": "Shichinin no samurai",
+    "year": 1954
+  },
+  {
+    "directors": [
+      {
+        "_id": 116,
+        "imdb": "nm1030706",
+        "name": "Jae-young Kwak"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      }
+    ],
+    "imdb": "tt0293715",
+    "_id": 120,
+    "title": "Yeopgijeogin geunyeo",
+    "year": 2001
+  },
+  {
+    "directors": [
+      {
+        "_id": 95,
+        "imdb": "nm1104118",
+        "name": "Ki-duk Kim"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt0397619",
+    "_id": 121,
+    "title": "Samaria",
+    "year": 2004
+  },
+  {
+    "directors": [
+      {
+        "_id": 94,
+        "imdb": "nm0000033",
+        "name": "Alfred Hitchcock"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Crime",
+        "_id": 14
+      },
+      {
+        "name": "Mystery",
+        "_id": 4
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt0046912",
+    "_id": 122,
+    "title": "Dial M for Murder",
+    "year": 1954
+  },
+  {
+    "directors": [
+      {
+        "_id": 117,
+        "imdb": "nm0002191",
+        "name": "Jacques Audiard"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Crime",
+        "_id": 14
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt1235166",
+    "_id": 123,
+    "title": "Un prophète",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 118,
+        "imdb": "nm1767218",
+        "name": "Lee Toland Krieger"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt1183921",
+    "_id": 124,
+    "title": "The Vicious Kind",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 102,
+        "imdb": "nm0661791",
+        "name": "Chan-wook Park"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Horror",
+        "_id": 15
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      }
+    ],
+    "imdb": "tt0762073",
+    "_id": 125,
+    "title": "Bakjwi",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 119,
+        "imdb": "nm0718646",
+        "name": "Jason Reitman"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      }
+    ],
+    "imdb": "tt1193138",
+    "_id": 126,
+    "title": "Up in the air",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 120,
+        "imdb": "nm0004654",
+        "name": "Nicolas Gessner"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Horror",
+        "_id": 15
+      },
+      {
+        "name": "Mystery",
+        "_id": 4
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt0074806",
+    "_id": 127,
+    "title": "The Little Girl Who Lives Down the Lane",
+    "year": 1976
+  },
+  {
+    "directors": [
+      {
+        "_id": 121,
+        "imdb": "nm0336620",
+        "name": "F. Gary Gray"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Crime",
+        "_id": 14
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt1197624",
+    "_id": 128,
+    "title": "Law Abiding Citizen",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 122,
+        "imdb": "nm0551128",
+        "name": "Rob Marshall"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Musical",
+        "_id": 22
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      }
+    ],
+    "imdb": "tt0875034",
+    "_id": 129,
+    "title": "Nine",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 123,
+        "imdb": "nm0000941",
+        "name": "Kathryn Bigelow"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Action",
+        "_id": 5
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      },
+      {
+        "name": "War",
+        "_id": 8
+      }
+    ],
+    "imdb": "tt0887912",
+    "_id": 131,
+    "title": "The Hurt Locker",
+    "year": 2008
+  },
+  {
+    "directors": [
+      {
+        "_id": 124,
+        "imdb": "m0942504",
+        "name": "Joe Wright"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Biography",
+        "_id": 9
+      },
+      {
+        "name": "Music",
+        "_id": 18
+      }
+    ],
+    "imdb": "tt0821642",
+    "_id": 132,
+    "title": "The Soloist",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 125,
+        "imdb": "nm0024622",
+        "name": "Alejandro Amenábar"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Adventure",
+        "_id": 11
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "History",
+        "_id": 10
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      }
+    ],
+    "imdb": "tt1186830",
+    "_id": 133,
+    "title": "Agora",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 126,
+        "imdb": "nm0225869",
+        "name": "Katherine Dieckmann"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Comedy",
+        "_id": 1
+      }
+    ],
+    "imdb": "tt1220220",
+    "_id": 134,
+    "title": "Motherhood",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 127,
+        "imdb": "nm0001603",
+        "name": "Sam Peckinpah"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Action",
+        "_id": 5
+      },
+      {
+        "name": "Western",
+        "_id": 20
+      }
+    ],
+    "imdb": "tt0065214",
+    "_id": 135,
+    "title": "The Wild Brunch",
+    "year": 1969
+  },
+  {
+    "directors": [
+      {
+        "_id": 128,
+        "imdb": "nm0258784",
+        "name": "Yılmaz Erdoğan"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Comedy",
+        "_id": 1
+      }
+    ],
+    "imdb": "tt1523515",
+    "_id": 136,
+    "title": "Neşeli Hayat",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 129,
+        "imdb": "nm0275277",
+        "name": "Shana Feste"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt1226232",
+    "_id": 137,
+    "title": "The Greatest",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 130,
+        "imdb": "nm0258732",
+        "name": "Reha Erdem"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt1370212",
+    "_id": 138,
+    "title": "My Only Sunshine",
+    "year": 2008
+  },
+  {
+    "directors": [
+      {
+        "_id": 131,
+        "imdb": "nm0438279",
+        "name": "Jonathan Kaplan"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt0094608",
+    "_id": 139,
+    "title": "The Accused",
+    "year": 1988
+  },
+  {
+    "directors": [
+      {
+        "_id": 132,
+        "imdb": "nm0000229",
+        "name": "Steven Spielberg"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Action",
+        "_id": 5
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "War",
+        "_id": 8
+      }
+    ],
+    "imdb": "tt0092965",
+    "_id": 140,
+    "title": "Empire of the Sun",
+    "year": 1987
+  },
+  {
+    "directors": [
+      {
+        "_id": 133,
+        "imdb": "nm0000338",
+        "name": "Francis Ford Coppola"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Crime",
+        "_id": 14
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      }
+    ],
+    "imdb": "tt0086066",
+    "_id": 141,
+    "title": "The Outsiders",
+    "year": 1983
+  },
+  {
+    "directors": [
+      {
+        "_id": 134,
+        "imdb": "nm0240627",
+        "name": "Troy Duffy"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Action",
+        "_id": 5
+      },
+      {
+        "name": "Crime",
+        "_id": 14
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt1300851",
+    "_id": 142,
+    "title": "The Boondock Saints II: All Saints Day",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 135,
+        "imdb": "nm0603628",
+        "name": "Pierre Morel"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Action",
+        "_id": 5
+      },
+      {
+        "name": "Crime",
+        "_id": 14
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt1179034",
+    "_id": 143,
+    "title": "From Paris with Love",
+    "year": 2010
+  },
+  {
+    "directors": [
+      {
+        "_id": 136,
+        "imdb": "nm0001392",
+        "name": "Peter Jackson"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Crime",
+        "_id": 14
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt0110005",
+    "_id": 144,
+    "title": "Heavenly Creatures",
+    "year": 1994
+  },
+  {
+    "directors": [
+      {
+        "_id": 137,
+        "imdb": "nm0589182",
+        "name": "Rebecca Miller"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      }
+    ],
+    "imdb": "tt1134629",
+    "_id": 145,
+    "title": "The Private Lives of Pippa Lee",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 138,
+        "imdb": "nm0000416",
+        "name": "Terry Gilliam"
+      },
+      {
+        "_id": 51,
+        "imdb": "nm0381416",
+        "name": "Grant Heslov"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Adventure",
+        "_id": 11
+      },
+      {
+        "name": "Fantasy",
+        "_id": 17
+      },
+      {
+        "name": "Mystery",
+        "_id": 4
+      },
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "War",
+        "_id": 8
+      }
+    ],
+    "imdb": "tt1054606",
+    "_id": 146,
+    "title": "The Imaginarium of Doctor Parnassus",
+    "year": 2009
+  },
+  {
+    "directors": [],
+    "genres": [],
+    "imdb": "tt1234548",
+    "_id": 147,
+    "title": "The Men Who Stare at Goats",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 139,
+        "imdb": "nm0520488",
+        "name": "Phil Lord"
+      },
+      {
+        "_id": 140,
+        "imdb": "nm0588087",
+        "name": "Chris Miller"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Animation",
+        "_id": 12
+      },
+      {
+        "name": "Family",
+        "_id": 13
+      }
+    ],
+    "imdb": "tt0844471",
+    "_id": 148,
+    "title": "Cloudy with a Chance of Meatballs",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 141,
+        "imdb": "nm0166256",
+        "name": "Ron Clements"
+      },
+      {
+        "_id": 142,
+        "imdb": "nm0615780",
+        "name": "John Musker"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Animation",
+        "_id": 12
+      },
+      {
+        "name": "Family",
+        "_id": 13
+      },
+      {
+        "name": "Fantasy",
+        "_id": 17
+      },
+      {
+        "name": "Musical",
+        "_id": 22
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      }
+    ],
+    "imdb": "tt0780521",
+    "_id": 149,
+    "title": "The Princess and the Frog",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 143,
+        "imdb": "nm0771054",
+        "name": "Lone Scherfig"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt1174732",
+    "_id": 150,
+    "title": "An Education",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 144,
+        "imdb": "nm0000116",
+        "name": "James Cameron"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Action",
+        "_id": 5
+      },
+      {
+        "name": "Adventure",
+        "_id": 11
+      },
+      {
+        "name": "Sci-Fi",
+        "_id": 6
+      }
+    ],
+    "imdb": "tt0499549",
+    "_id": 151,
+    "title": "Avatar",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 144,
+        "imdb": "nm0000116",
+        "name": "James Cameron"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Action",
+        "_id": 5
+      },
+      {
+        "name": "Adventure",
+        "_id": 11
+      },
+      {
+        "name": "Sci-Fi",
+        "_id": 6
+      }
+    ],
+    "imdb": "tt0499549",
+    "_id": 152,
+    "title": "Avatar 3D",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 145,
+        "imdb": "nm0200005",
+        "name": "Lee Daniels"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt0929632",
+    "_id": 153,
+    "title": "Precious: Based on the Novel Push by Sapphire",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 146,
+        "imdb": "nm0359387",
+        "name": "John Lee Hancock"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Sport",
+        "_id": 16
+      }
+    ],
+    "imdb": "tt0878804",
+    "_id": 154,
+    "title": "The Blind Side",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 147,
+        "imdb": "nm0919363",
+        "name": "Chris Weitz"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Fantasy",
+        "_id": 17
+      },
+      {
+        "name": "Horror",
+        "_id": 15
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      }
+    ],
+    "imdb": "tt1259571",
+    "_id": 155,
+    "title": "New Moon",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 148,
+        "imdb": "nm0027572",
+        "name": "Wes Anderson"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Animation",
+        "_id": 12
+      },
+      {
+        "name": "Adventure",
+        "_id": 11
+      },
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Family",
+        "_id": 13
+      }
+    ],
+    "imdb": "tt0432283",
+    "_id": 156,
+    "title": "Fantastic Mr. Fox",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 149,
+        "imdb": "nm0005363",
+        "name": "Guy Ritchie"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Action",
+        "_id": 5
+      },
+      {
+        "name": "Adventure",
+        "_id": 11
+      },
+      {
+        "name": "Crime",
+        "_id": 14
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Mystery",
+        "_id": 4
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt0988045",
+    "_id": 157,
+    "title": "Sherlock Holmes",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 150,
+        "imdb": "nm0001814",
+        "name": "Gus Van Sant"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      }
+    ],
+    "imdb": "tt0102494",
+    "_id": 158,
+    "title": "My Own Private Idaho",
+    "year": 1991
+  },
+  {
+    "directors": [
+      {
+        "_id": 151,
+        "imdb": "nm0384825",
+        "name": "John Hillcoat"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Adventure",
+        "_id": 11
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt0898367",
+    "_id": 159,
+    "title": "The Road",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 152,
+        "imdb": "nm0954500",
+        "name": "Petr Zelenka"
+      },
+      {
+        "_id": 62,
+        "imdb": "nm0649117",
+        "name": "Niels Arden Oplev"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Crime",
+        "_id": 14
+      },
+      {
+        "name": "Mystery",
+        "_id": 4
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt1080716",
+    "_id": 160,
+    "title": "Karamazovi",
+    "year": 2008
+  },
+  {
+    "directors": [],
+    "genres": [],
+    "imdb": "tt1132620",
+    "_id": 161,
+    "title": "Män som hatar kvinnor",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 153,
+        "imdb": "nm1729303",
+        "name": "Marcus Dunstan"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Crime",
+        "_id": 14
+      },
+      {
+        "name": "Horror",
+        "_id": 15
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt0844479",
+    "_id": 162,
+    "title": "The Collector",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 154,
+        "imdb": "nm0006498",
+        "name": "Majid Majidi"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Family",
+        "_id": 13
+      }
+    ],
+    "imdb": "tt0118849",
+    "_id": 163,
+    "title": "Bacheha-Ye aseman",
+    "year": 1997
+  },
+  {
+    "directors": [
+      {
+        "_id": 155,
+        "imdb": "nm0490487",
+        "name": "Wai-keung Lau"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      }
+    ],
+    "imdb": "tt0468704",
+    "_id": 164,
+    "title": "Deiji",
+    "year": 2006
+  },
+  {
+    "directors": [
+      {
+        "_id": 156,
+        "imdb": "nm0625789",
+        "name": "Tim Blake Nelson"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Crime",
+        "_id": 14
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt1151359",
+    "_id": 165,
+    "title": "Leaves of Grass",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 157,
+        "imdb": "nm0000361",
+        "name": "Brian De Palma"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Crime",
+        "_id": 14
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt0086250",
+    "_id": 166,
+    "title": "Scarface",
+    "year": 1983
+  },
+  {
+    "directors": [
+      {
+        "_id": 158,
+        "imdb": "nm0006476",
+        "name": "Paul McGuigan"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Mystery",
+        "_id": 4
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt0324554",
+    "_id": 167,
+    "title": "Wicker Park",
+    "year": 2004
+  },
+  {
+    "directors": [
+      {
+        "_id": 159,
+        "imdb": "nm0590813",
+        "name": "Gilles Mimouni"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Mystery",
+        "_id": 4
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      }
+    ],
+    "imdb": "tt0115561",
+    "_id": 168,
+    "title": "L appartement",
+    "year": 1996
+  },
+  {
+    "directors": [
+      {
+        "_id": 160,
+        "imdb": "nm0298807",
+        "name": "Antoine Fuqua"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Action",
+        "_id": 5
+      },
+      {
+        "name": "Crime",
+        "_id": 14
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt1210042",
+    "_id": 169,
+    "title": "Brooklyns Finest",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 161,
+        "imdb": "nm0932216",
+        "name": "Nick Willing"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Fantasy",
+        "_id": 17
+      }
+    ],
+    "imdb": "tt1461312",
+    "_id": 170,
+    "title": "Alice",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 162,
+        "imdb": "nm0006904",
+        "name": "Tony Gilroy"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Romance",
+        "_id": 3
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt1135487",
+    "_id": 171,
+    "title": "Duplicity",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 163,
+        "imdb": "nm2905562",
+        "name": "Daniel Barber"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Crime",
+        "_id": 14
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt1289406",
+    "_id": 172,
+    "title": "Harry Brown",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 164,
+        "imdb": "nm1367933",
+        "name": "Yann Samuel"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      }
+    ],
+    "imdb": "tt0364517",
+    "_id": 173,
+    "title": "Jeux Denfants",
+    "year": 2003
+  },
+  {
+    "directors": [
+      {
+        "_id": 165,
+        "imdb": "nm0824220",
+        "name": "Peter Stebbings"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt1303828",
+    "_id": 174,
+    "title": "Defendor",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 166,
+        "imdb": "nm0132709",
+        "name": "Martin Campbell"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt1226273",
+    "_id": 175,
+    "title": "Edge of Darkness",
+    "year": 2010
+  },
+  {
+    "directors": [
+      {
+        "_id": 167,
+        "imdb": "nm0132709",
+        "name": "Mark Waters"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Fantasy",
+        "_id": 17
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      }
+    ],
+    "imdb": "tt0425123",
+    "_id": 176,
+    "title": "Just Like Heaven",
+    "year": 2005
+  },
+  {
+    "directors": [
+      {
+        "_id": 168,
+        "imdb": "nm0939182",
+        "name": "Kar Wai Wong"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Fantasy",
+        "_id": 17
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      },
+      {
+        "name": "Sci-Fi",
+        "_id": 6
+      }
+    ],
+    "imdb": "tt0212712",
+    "_id": 177,
+    "title": "2046",
+    "year": 2004
+  },
+  {
+    "directors": [
+      {
+        "_id": 169,
+        "imdb": "nm0006487",
+        "name": "Jim Sheridan"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      },
+      {
+        "name": "War",
+        "_id": 8
+      }
+    ],
+    "imdb": "tt0765010",
+    "_id": 178,
+    "title": "Brothers",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 170,
+        "imdb": "nm0178376",
+        "name": "Scott Cooper"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Music",
+        "_id": 18
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      }
+    ],
+    "imdb": "tt1263670",
+    "_id": 179,
+    "title": "Crazy Heart",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 171,
+        "imdb": "nm0000217",
+        "name": "Martin Scorsese"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Crime",
+        "_id": 14
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Mystery",
+        "_id": 4
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt1130884",
+    "_id": 180,
+    "title": "Shutter Island",
+    "year": 2010
+  },
+  {
+    "directors": [
+      {
+        "_id": 172,
+        "imdb": "nm0218547",
+        "name": "Zeki Demirkubuz"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt1512894",
+    "_id": 181,
+    "title": "Kıskanmak",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 173,
+        "imdb": "nm0359734",
+        "name": "Michael Haneke"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Crime",
+        "_id": 14
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Mystery",
+        "_id": 4
+      }
+    ],
+    "imdb": "tt1149362",
+    "_id": 182,
+    "title": "Das weisse Band - Eine deutsche Kindergeschichte",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 136,
+        "imdb": "nm0001392",
+        "name": "Peter Jackson"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Crime",
+        "_id": 14
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Fantasy",
+        "_id": 17
+      },
+      {
+        "name": "Horror",
+        "_id": 15
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt0380510",
+    "_id": 183,
+    "title": "The Lovely Bones",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 174,
+        "imdb": "nm1189816",
+        "name": "Kamen Kalev"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt1426361",
+    "_id": 184,
+    "title": "Eastern Plays",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 175,
+        "imdb": "nm0462895",
+        "name": "David Koepp"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Fantasy",
+        "_id": 17
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      }
+    ],
+    "imdb": "tt0995039",
+    "_id": 185,
+    "title": "Ghost Town",
+    "year": 2008
+  },
+  {
+    "directors": [
+      {
+        "_id": 176,
+        "imdb": "nm0001081",
+        "name": "Cameron Crowe"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Music",
+        "_id": 18
+      }
+    ],
+    "imdb": "tt0181875",
+    "_id": 186,
+    "title": "Almost Famous",
+    "year": 2000
+  },
+  {
+    "directors": [
+      {
+        "_id": 177,
+        "imdb": "nm1393530",
+        "name": "Ivan Engler"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Sci-Fi",
+        "_id": 6
+      }
+    ],
+    "imdb": "tt0381940",
+    "_id": 187,
+    "title": "Cargo",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 178,
+        "imdb": "nm0689081",
+        "name": "Stephen Poliakoff"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "History",
+        "_id": 10
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      },
+      {
+        "name": "War",
+        "_id": 8
+      }
+    ],
+    "imdb": "tt1319694",
+    "_id": 188,
+    "title": "Glorious 39",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 179,
+        "imdb": "nm0804556",
+        "name": "Kari Skogland"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt1097643",
+    "_id": 189,
+    "title": "Fifty Dead Men Walking",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 180,
+        "imdb": "nm1302591",
+        "name": "Michael Sucsy"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Biography",
+        "_id": 9
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt0758751",
+    "_id": 190,
+    "title": "Grey Gardens",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 181,
+        "imdb": "nm0855035",
+        "name": "Andy Tennant"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Action",
+        "_id": 5
+      },
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Crime",
+        "_id": 14
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      }
+    ],
+    "imdb": "tt1038919",
+    "_id": 191,
+    "title": "The Bounty Hunter",
+    "year": 2010
+  },
+  {
+    "directors": [
+      {
+        "_id": 62,
+        "imdb": "nm0649117",
+        "name": "Niels Arden Oplev"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt1065318",
+    "_id": 192,
+    "title": "To Verdener",
+    "year": 2008
+  },
+  {
+    "directors": [
+      {
+        "_id": 182,
+        "imdb": "nm1533201",
+        "name": "Durul Taylan"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt1558877",
+    "_id": 193,
+    "title": "Vavien",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 183,
+        "imdb": "nm0000485",
+        "name": "Fritz Lang"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Western",
+        "_id": 20
+      }
+    ],
+    "imdb": "tt0032983",
+    "_id": 194,
+    "title": "The Return of Frank James",
+    "year": 1940
+  },
+  {
+    "directors": [
+      {
+        "_id": 184,
+        "imdb": "nm1413443",
+        "name": "Samuel Maoz"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "War",
+        "_id": 8
+      }
+    ],
+    "imdb": "tt1483831",
+    "_id": 195,
+    "title": "Lebanon",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 185,
+        "imdb": "nm0946734",
+        "name": "David Yates"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Action",
+        "_id": 5
+      },
+      {
+        "name": "Adventure",
+        "_id": 11
+      },
+      {
+        "name": "Family",
+        "_id": 13
+      },
+      {
+        "name": "Fantasy",
+        "_id": 17
+      },
+      {
+        "name": "Mystery",
+        "_id": 4
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      }
+    ],
+    "imdb": "tt0417741",
+    "_id": 196,
+    "title": "Harry Potter and the Half-Blood Prince",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 186,
+        "imdb": "nm0468995",
+        "name": "Damjan Kozole"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt1224373",
+    "_id": 197,
+    "title": "Slovenka",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 187,
+        "imdb": "nm0827459",
+        "name": "Igor Sterk"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt1361326",
+    "_id": 198,
+    "title": "9:06",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 188,
+        "imdb": "nm0000694",
+        "name": "Wim Wenders"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Crime",
+        "_id": 14
+      },
+      {
+        "name": "Mystery",
+        "_id": 4
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt0075675",
+    "_id": 199,
+    "title": "Der amerikanische Freund",
+    "year": 1977
+  },
+  {
+    "directors": [
+      {
+        "_id": 189,
+        "imdb": "nm2459703",
+        "name": "Chandler Tuttle"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Action",
+        "_id": 5
+      },
+      {
+        "name": "Sci-Fi",
+        "_id": 6
+      }
+    ],
+    "imdb": "tt1282015",
+    "_id": 200,
+    "title": "2081",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 107,
+        "imdb": "nm0002120",
+        "name": "Lasse Hallström"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      },
+      {
+        "name": "War",
+        "_id": 8
+      }
+    ],
+    "imdb": "tt0989757",
+    "_id": 201,
+    "title": "Dear John",
+    "year": 2010
+  },
+  {
+    "directors": [
+      {
+        "_id": 190,
+        "imdb": "nm0144023",
+        "name": "Zoe R. Cassavetes"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      }
+    ],
+    "imdb": "tt0772157",
+    "_id": 202,
+    "title": "Broken English",
+    "year": 2007
+  },
+  {
+    "directors": [
+      {
+        "_id": 191,
+        "imdb": "nm0001837",
+        "name": "Peter Weir"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Mystery",
+        "_id": 4
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt0076299",
+    "_id": 203,
+    "title": "The Last Wave",
+    "year": 1977
+  },
+  {
+    "directors": [
+      {
+        "_id": 133,
+        "imdb": "nm0000338",
+        "name": "Francis Ford Coppola"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Crime",
+        "_id": 14
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt0119978",
+    "_id": 204,
+    "title": "The Rainmaker",
+    "year": 1997
+  },
+  {
+    "directors": [
+      {
+        "_id": 116,
+        "imdb": "nm1030706",
+        "name": "Jae-young Kwak"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Romance",
+        "_id": 3
+      }
+    ],
+    "imdb": "tt0348568",
+    "_id": 205,
+    "title": "Keulraesik",
+    "year": 2003
+  },
+  {
+    "directors": [
+      {
+        "_id": 192,
+        "imdb": "nm0851724",
+        "name": "Bertrand Tavernier"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Mystery",
+        "_id": 4
+      }
+    ],
+    "imdb": "tt0910905",
+    "_id": 206,
+    "title": "The Electric Mist",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 193,
+        "imdb": "nm0385644",
+        "name": "Cheryl Hines"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      }
+    ],
+    "imdb": "tt1133993",
+    "_id": 207,
+    "title": "Serious Moonlight",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 194,
+        "imdb": "nm0917188",
+        "name": "Chris Wedge"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Animation",
+        "_id": 12
+      },
+      {
+        "name": "Action",
+        "_id": 5
+      },
+      {
+        "name": "Adventure",
+        "_id": 11
+      },
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Family",
+        "_id": 13
+      }
+    ],
+    "imdb": "tt0268380",
+    "_id": 208,
+    "title": "Ice Age",
+    "year": 2002
+  },
+  {
+    "directors": [
+      {
+        "_id": 195,
+        "imdb": "nm0757858",
+        "name": "Carlos Saldanha"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Animation",
+        "_id": 12
+      },
+      {
+        "name": "Action",
+        "_id": 5
+      },
+      {
+        "name": "Adventure",
+        "_id": 11
+      },
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Family",
+        "_id": 13
+      }
+    ],
+    "imdb": "tt0438097",
+    "_id": 209,
+    "title": "Ice Age: The Meltdown",
+    "year": 2006
+  },
+  {
+    "directors": [
+      {
+        "_id": 195,
+        "imdb": "nm0757858",
+        "name": "Carlos Saldanha"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Animation",
+        "_id": 12
+      },
+      {
+        "name": "Action",
+        "_id": 5
+      },
+      {
+        "name": "Adventure",
+        "_id": 11
+      },
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Family",
+        "_id": 13
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      }
+    ],
+    "imdb": "tt1080016",
+    "_id": 210,
+    "title": "Ice Age: Dawn of the Dinosaurs",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 196,
+        "imdb": "nm3321297",
+        "name": "Giuseppe Capotondi"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Mystery",
+        "_id": 4
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt1379222",
+    "_id": 211,
+    "title": "La doppia ora",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 197,
+        "imdb": "nm1053530",
+        "name": "Tom Ford"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt1315981",
+    "_id": 212,
+    "title": "A Single Man",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 198,
+        "imdb": "nm0779386",
+        "name": "Jordan Scott"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt1183665",
+    "_id": 213,
+    "title": "Cracks",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 199,
+        "imdb": "nm1231757",
+        "name": "Noah Buschel"
+      },
+      {
+        "_id": 200,
+        "imdb": "nm0583600",
+        "name": "Nancy Meyers"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Mystery",
+        "_id": 4
+      },
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      },
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Comedy",
+        "_id": 1
+      }
+    ],
+    "imdb": "tt1105512",
+    "_id": 214,
+    "title": "The Missing Person",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 201,
+        "imdb": "nm0891114",
+        "name": "Tom Vaughan"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt1244659",
+    "_id": 215,
+    "title": "Extraordinary Measures",
+    "year": 2010
+  },
+  {
+    "directors": [
+      {
+        "_id": 202,
+        "imdb": "nm0875793",
+        "name": "Anand Tucker"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      }
+    ],
+    "imdb": "tt1216492",
+    "_id": 216,
+    "title": "Leap Year",
+    "year": 2010
+  },
+  {
+    "directors": [
+      {
+        "_id": 203,
+        "imdb": "nm0939993",
+        "name": "Sam Taylor Wood"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Biography",
+        "_id": 9
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Music",
+        "_id": 18
+      }
+    ],
+    "imdb": "tt1266029",
+    "_id": 217,
+    "title": "Nowhere Boy",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 204,
+        "imdb": "nm0814716",
+        "name": "Ömer Faruk Sorak"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Western",
+        "_id": 20
+      }
+    ],
+    "imdb": "tt1567448",
+    "_id": 218,
+    "title": "Yahşi Batı",
+    "year": 2010
+  },
+  {
+    "directors": [
+      {
+        "_id": 205,
+        "imdb": "nm3213296",
+        "name": "Özcan Alper"
+      },
+      {
+        "_id": 206,
+        "imdb": "nm0005190",
+        "name": "Garry Marshall"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      }
+    ],
+    "imdb": "tt1330591",
+    "_id": 219,
+    "title": "Sonbahar",
+    "year": 2008
+  },
+  {
+    "directors": [
+      {
+        "_id": 207,
+        "imdb": "nm0181902",
+        "name": "George P. Cosmatos"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Action",
+        "_id": 5
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "History",
+        "_id": 10
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      },
+      {
+        "name": "Western",
+        "_id": 20
+      }
+    ],
+    "imdb": "tt0108358",
+    "_id": 220,
+    "title": "Tombstone",
+    "year": 1993
+  },
+  {
+    "directors": [
+      {
+        "_id": 208,
+        "imdb": "nm0868153",
+        "name": "Giuseppe Toprnatore"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Mystery",
+        "_id": 4
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt0494271",
+    "_id": 221,
+    "title": "La Sconosciuta",
+    "year": 2006
+  },
+  {
+    "directors": [
+      {
+        "_id": 209,
+        "imdb": "nm0275629",
+        "name": "Glenn Ficarra"
+      },
+      {
+        "_id": 210,
+        "imdb": "nm0720135",
+        "name": "John Requa"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt1045772",
+    "_id": 222,
+    "title": "I Love You Phillip Morris",
+    "year": 2010
+  },
+  {
+    "directors": [
+      {
+        "_id": 211,
+        "imdb": "nm0001469",
+        "name": "Barry Levinson"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Biography",
+        "_id": 9
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt1132623",
+    "_id": 223,
+    "title": "You Dont Know Jack",
+    "year": 2010
+  },
+  {
+    "directors": [
+      {
+        "_id": 212,
+        "imdb": "nm0607831",
+        "name": "Koen Morties"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Crime",
+        "_id": 14
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Music",
+        "_id": 18
+      }
+    ],
+    "imdb": "tt0812243",
+    "_id": 224,
+    "title": "Ex Drummer",
+    "year": 2007
+  },
+  {
+    "directors": [
+      {
+        "_id": 213,
+        "imdb": "nm0948159",
+        "name": "Wilson Yip"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Action",
+        "_id": 5
+      },
+      {
+        "name": "Biography",
+        "_id": 9
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt1220719",
+    "_id": 225,
+    "title": "Yip Man",
+    "year": 2008
+  },
+  {
+    "directors": [
+      {
+        "_id": 213,
+        "imdb": "nm0948159",
+        "name": "Wilson Yip"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Action",
+        "_id": 5
+      },
+      {
+        "name": "Biography",
+        "_id": 9
+      },
+      {
+        "name": "History",
+        "_id": 10
+      }
+    ],
+    "imdb": "tt1386932",
+    "_id": 226,
+    "title": "Yip Man 2: Chung si chuen kei",
+    "year": 2010
+  },
+  {
+    "directors": [
+      {
+        "_id": 214,
+        "imdb": "nm0000318",
+        "name": "Tim Burton"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Adventure",
+        "_id": 11
+      },
+      {
+        "name": "Family",
+        "_id": 13
+      },
+      {
+        "name": "Fantasy",
+        "_id": 17
+      }
+    ],
+    "imdb": "tt1014759",
+    "_id": 227,
+    "title": "Alice in Wonderland",
+    "year": 2010
+  },
+  {
+    "directors": [
+      {
+        "_id": 215,
+        "imdb": "nm0000382",
+        "name": "Atom Egoyan"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt1352824",
+    "_id": 228,
+    "title": "Chloe",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 216,
+        "imdb": "nm0170043",
+        "name": "Isabel Coixet"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      }
+    ],
+    "imdb": "tt0974554",
+    "_id": 229,
+    "title": "Elegy",
+    "year": 2008
+  },
+  {
+    "directors": [
+      {
+        "_id": 217,
+        "imdb": "nm0161056",
+        "name": "Pavel Chukhraj"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt0416292",
+    "_id": 230,
+    "title": "Voditel dlya Very",
+    "year": 2004
+  },
+  {
+    "directors": [
+      {
+        "_id": 218,
+        "imdb": "nm3773770",
+        "name": "Ketche"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      }
+    ],
+    "imdb": "tt1587263",
+    "_id": 231,
+    "title": "Romantik Komedi",
+    "year": 2010
+  },
+  {
+    "directors": [
+      {
+        "_id": 219,
+        "imdb": "nm0515101",
+        "name": "Zülfü Livaneli"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Biography",
+        "_id": 9
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "History",
+        "_id": 10
+      },
+      {
+        "name": "War",
+        "_id": 8
+      }
+    ],
+    "imdb": "tt1586001",
+    "_id": 232,
+    "title": "Veda",
+    "year": 2010
+  },
+  {
+    "directors": [
+      {
+        "_id": 220,
+        "imdb": "nm0000600",
+        "name": "Sam Raimi"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Horror",
+        "_id": 15
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt1127180",
+    "_id": 233,
+    "title": "Drag Me to Hell",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 87,
+        "imdb": "nm0000697",
+        "name": "Billy Wilder"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Comedy",
+        "_id": 1
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "War",
+        "_id": 8
+      }
+    ],
+    "imdb": "tt0046359",
+    "_id": 234,
+    "title": "Stalag 17",
+    "year": 1953
+  },
+  {
+    "directors": [
+      {
+        "_id": 221,
+        "imdb": "nm0329023",
+        "name": "Brian Goodman"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Crime",
+        "_id": 14
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt1133991",
+    "_id": 235,
+    "title": "What Doesnt Kill You",
+    "year": 2008
+  },
+  {
+    "directors": [
+      {
+        "_id": 222,
+        "imdb": "nm0056725",
+        "name": "Christophe Barratier"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Music",
+        "_id": 18
+      }
+    ],
+    "imdb": "tt0948535",
+    "_id": 236,
+    "title": "Faubourg 36",
+    "year": 2008
+  },
+  {
+    "directors": [
+      {
+        "_id": 223,
+        "imdb": "nm0001945",
+        "name": "Claude Berri"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Romance",
+        "_id": 3
+      }
+    ],
+    "imdb": "tt0107002",
+    "_id": 237,
+    "title": "Germinal",
+    "year": 1993
+  },
+  {
+    "directors": [
+      {
+        "_id": 169,
+        "imdb": "nm0006487",
+        "name": "Jim Sheridan"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Biography",
+        "_id": 9
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt0097937",
+    "_id": 238,
+    "title": "My Left Foot: The Story of Christy Brown",
+    "year": 1989
+  },
+  {
+    "directors": [
+      {
+        "_id": 224,
+        "imdb": "nm1560977",
+        "name": "Cary Fukunaga"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Adventure",
+        "_id": 11
+      },
+      {
+        "name": "Crime",
+        "_id": 14
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt1127715",
+    "_id": 239,
+    "title": "Sin Nombre",
+    "year": 2010
+  },
+  {
+    "directors": [
+      {
+        "_id": 225,
+        "imdb": "nm0304879",
+        "name": "Jesus Garay"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt1221188",
+    "_id": 240,
+    "title": "Eloïse",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 226,
+        "imdb": "nm2079185",
+        "name": "İlksen Başarır"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt1513713",
+    "_id": 241,
+    "title": "Başka Dilde Aşk",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 227,
+        "imdb": "nm0400436",
+        "name": "Albert Hughes"
+      },
+      {
+        "_id": 228,
+        "imdb": "nm0400441",
+        "name": "Allen Hughes"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Action",
+        "_id": 5
+      },
+      {
+        "name": "Adventure",
+        "_id": 11
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      },
+      {
+        "name": "Western",
+        "_id": 20
+      }
+    ],
+    "imdb": "tt1037705",
+    "_id": 242,
+    "title": "The Book of Eli",
+    "year": 2010
+  },
+  {
+    "directors": [
+      {
+        "_id": 229,
+        "imdb": "nm0466153",
+        "name": "Hirokazu Koreeda"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      }
+    ],
+    "imdb": "tt1371630",
+    "_id": 243,
+    "title": "Air Doll",
+    "year": 2009
+  },
+  {
+    "directors": [
+      {
+        "_id": 230,
+        "imdb": "nm0457565",
+        "name": "Ryûhei Kitamura"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Action",
+        "_id": 5
+      },
+      {
+        "name": "Adventure",
+        "_id": 11
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Fantasy",
+        "_id": 17
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt0384819",
+    "_id": 244,
+    "title": "Azumi",
+    "year": 2003
+  },
+  {
+    "directors": [
+      {
+        "_id": 231,
+        "imdb": "nm0437526",
+        "name": "Shusuke Kaneko"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Action",
+        "_id": 5
+      }
+    ],
+    "imdb": "tt0431641",
+    "_id": 245,
+    "title": "Azumi 2: Death or Love",
+    "year": 2005
+  },
+  {
+    "directors": [
+      {
+        "_id": 232,
+        "imdb": "nm0429964",
+        "name": "Gregor Jordan"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Thriller",
+        "_id": 7
+      }
+    ],
+    "imdb": "tt0914863",
+    "_id": 246,
+    "title": "Unthinkable",
+    "year": 2010
+  },
+  {
+    "directors": [
+      {
+        "_id": 241,
+        "imdb": "nm0593610",
+        "name": "Mike Mitchell"
+      }
+    ],
+    "genres": [],
+    "imdb": "tt0892791",
+    "_id": 255,
+    "title": "Shrek Forever After",
+    "year": 2010
+  },
+  {
+    "directors": [],
+    "genres": [
+      {
+        "name": "Biography",
+        "_id": 9
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Sport",
+        "_id": 16
+      }
+    ],
+    "imdb": "tt0453562",
+    "_id": 256,
+    "title": "42",
+    "year": 2013
+  },
+  {
+    "directors": [
+      {
+        "_id": 242,
+        "imdb": "nm0001338",
+        "name": "Brian Helgeland"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Biography",
+        "_id": 9
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Sport",
+        "_id": 16
+      }
+    ],
+    "imdb": "tt0453562",
+    "_id": 257,
+    "title": "42",
+    "year": 2013
+  },
+  {
+    "directors": [
+      {
+        "_id": 243,
+        "imdb": "nm0001338",
+        "name": "Brian Helgeland"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Biography",
+        "_id": 9
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Sport",
+        "_id": 16
+      }
+    ],
+    "imdb": "tt0453562",
+    "_id": 258,
+    "title": "42",
+    "year": 2013
+  },
+  {
+    "directors": [
+      {
+        "_id": 244,
+        "imdb": "nm0001338",
+        "name": "Brian Helgeland"
+      }
+    ],
+    "genres": [
+      {
+        "name": "Biography",
+        "_id": 9
+      },
+      {
+        "name": "Drama",
+        "_id": 2
+      },
+      {
+        "name": "Sport",
+        "_id": 16
+      }
+    ],
+    "imdb": "tt0453562",
+    "_id": 259,
+    "title": "42",
+    "year": 2013
+  }
+]
