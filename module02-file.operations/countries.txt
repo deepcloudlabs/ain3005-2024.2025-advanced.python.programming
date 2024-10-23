@@ -1,0 +1,3 @@
+tur,turkey,asia,80000000.0
+fra,france,europe,67000000
+ita,italy,europe,60000000
