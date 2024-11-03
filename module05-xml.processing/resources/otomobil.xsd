@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           xmlns="http://www.omegaegitim.com/bte550/2011/hw2"
+           targetNamespace="http://www.omegaegitim.com/bte550/2011/hw2"
+           elementFormDefault="qualified">
+    <xs:element name="otomobiller">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="otomobil" minOccurs="1" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:all>
+                            <xs:element name="uzunluk" type="olcuTipi"/>
+                            <xs:element name="genislik" type="olcuTipi"/>
+                            <xs:element name="yükseklik" type="olcuTipi"/>
+                            <xs:element name="agirlik" type="olcuTipi"/>
+                            <xs:element name="bagaj_hacmi" type="olcuTipi"/>
+                            <xs:element name="motor_hacmi" type="olcuTipi"/>
+                            <xs:element name="silindir_adedi" type="olcuTipi"/>
+                            <xs:element name="beygir_gucu" type="olcuTipi"/>
+                            <xs:element name="yuz_km_sn" type="olcuTipi"/>
+                            <xs:element name="dingil_mesafesi" type="olcuTipi"/>
+                            <xs:element name="yakit_tuketimi" type="olcuTipi"/>
+                        </xs:all>
+                        <xs:attribute name="marka" type="xs:string"
+                                      use="required"/>
+                        <xs:attribute name="model" type="xs:string"
+                                      use="required"/>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:complexType name="olcuTipi">
+        <xs:simpleContent>
+            <xs:extension base='xs:decimal'>
+                <xs:attribute name="birim" type="birimTipi" use="required"/>
+            </xs:extension>
+        </xs:simpleContent>
+    </xs:complexType>
+    <xs:simpleType name="birimTipi">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="mm"/>
+            <xs:enumeration value="cm"/>
+            <xs:enumeration value="km"/>
+            <xs:enumeration value="m"/>
+            <xs:enumeration value="sec"/>
+            <xs:enumeration value="adet"/>
+            <xs:enumeration value="hp"/>
+            <xs:enumeration value="m3"/>
+            <xs:enumeration value="lt"/>
+            <xs:enumeration value="cc"/>
+            <xs:enumeration value="kg"/>
+        </xs:restriction>
+    </xs:simpleType>
+</xs:schema>

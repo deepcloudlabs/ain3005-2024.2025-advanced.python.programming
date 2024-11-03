@@ -1,0 +1,24 @@
+Programming Paradigms:
+ I. Imperative Programming: Procedural Programming, Object-Oriented Programming, ...
+    Algorithm: Problem --> Solution
+II. Declarative Programming: Object-Oriented Programming, Functional Programming, ...
+    Describe Solution
+
+Module #1: Object-Oriented Programming in Python
+Module #2: Functional Programming in Python
+
+Modeling/Abstraction
+Domain Modeling -> Object-Oriented Programming -> Class + Object
+Class -> Concept
+Banking Domain -> Account: i. static members: iban, balance, status, ...
+                          ii. dynamic members: behaviours -> deposit, withdraw, ...
+
+Real World/Domain --> Domain Expert (Mental Model) -- OO --> Analyst, Architect, Developer, Tester, ...
+Domain-Driven Design: Bounded-Context, Ubiquitous Language
+Event Storming
+Class --> Object
+
+Object-Oriented Programming
+1. Class/Object: Encapsulation + Information Hiding ✔
+2. Inheritance : Reusability ✔
+3. Polymorphism: Agility

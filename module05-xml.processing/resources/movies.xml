@@ -1,0 +1,3489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movies>
+    <movie>
+        <title imdb="tt1022603">500 Days Of Summer</title>
+        <year>2009</year>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+            <genre>Romance</genre>
+        </genres>
+        <directors>
+            <director imdb="nm1989536">Marc Webb</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1183251">Beyond a Reasonable Doubt</title>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Mystery</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0001382">Peter Hyams</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1034032">Gamer</title>
+        <year>2009</year>
+        <genres>
+            <genre>Action</genre>
+            <genre>Sci-Fi</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0004410">Mark Neveldine</director>
+            <director imdb="nm0962729">Brian Taylor</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1179258">Cheri</title>
+        <year>2009</year>
+        <genres>
+            <genre>drama</genre>
+            <genre>romance</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0001241">Stephen Frears</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1235124">Dorian Gray</title>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0662529">Oliver Parker</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0361748">Inglourious Basterds</title>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>War</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0000233">Quentin Tarantino</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1057500">Invictus</title>
+        <year>2009</year>
+        <genres>
+            <genre>Biography</genre>
+            <genre>Drama</genre>
+            <genre>History</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0000142">Clint Eastwood</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1135503">Julie &amp; Julia</title>
+        <year>2009</year>
+        <genres>
+            <genre>Biography</genre>
+            <genre>Drama</genre>
+            <genre>Comedy</genre>
+            <genre>Romance</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0001188">Nora Ephron</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0913425">Los abrazos rotos</title>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Thriller</genre>
+            <genre>Romance</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0000264">Pedro Almodovar</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1230414">It's Complicated</title>
+        <year>2009</year>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Romance</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0583600">Nancy Meyers</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0105046">Of Mice and Men</title>
+        <year>1992</year>
+        <genres>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0000641">Gary Sinise</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0913354">Armored</title>
+        <year>2009</year>
+        <genres>
+            <genre>Action</genre>
+            <genre>Drama</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0030735">Nimród Antal</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1548542">Bornova Bornova</title>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director imdb="nm3692009">?nan Temelkuran</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1035736">Coco avant Chanel</title>
+        <year>2009</year>
+        <genres>
+            <genre>Biography</genre>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0284774">Anne Fontaine</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1171701">Nefes: Vatan sa?olsun</title>
+        <year>2009</year>
+        <genres>
+            <genre>Action</genre>
+            <genre>Adventure</genre>
+            <genre>Drama</genre>
+            <genre>War</genre>
+        </genres>
+        <directors>
+            <director imdb="nm2896395">Levent Semerci</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1049413">Up</title>
+        <year>2009</year>
+        <genres>
+            <genre>Animation</genre>
+            <genre>Adventure</genre>
+            <genre>Comedy</genre>
+            <genre>Family</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0230032">Pete Docter</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0365929">Whiteout</title>
+        <year>2009</year>
+        <genres>
+            <genre>Action</genre>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+            <genre>Mystery</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0784061">Dominic Sena</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0452694">The Time Traveler's Wife</title>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Sci-Fi</genre>
+            <genre>Romance</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0777881">Robert Schwentke</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1178663">Whatever Works</title>
+        <year>2009</year>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Romance</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0000095">Woody Allen</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1035730">Anonyma - Eine Frau in Berlin </title>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>War</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0299621">Max Färberböck</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1156398">Zombieland</title>
+        <year>2009</year>
+        <genres>
+            <genre>Action</genre>
+            <genre>Comedy</genre>
+            <genre>Horror</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0281508">Ruben Fleischer</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1085515">Weather Girl</title>
+        <year>2009</year>
+        <genres>
+            <genre>Comedy</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0915814">Blayne Weaver</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0409459">Watchmen</title>
+        <year>2009</year>
+        <genres>
+            <genre>Action</genre>
+            <genre>Drama</genre>
+            <genre>Mystery</genre>
+            <genre>Sci-Fi</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0811583">Zack Snyder</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0479341">Adam Resurrected</title>
+        <year>2008</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>War</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0001707">Paul Schrader</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0808151">Angels &amp; Deamons</title>
+        <year>2009</year>
+        <genres>
+            <genre>Mystery</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0000165">Ron Howard</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1176740">Away We Go</title>
+        <year>2009</year>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0005222">Sam Mendes</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1080016">Ice Age: Dawn of the Dinosaurs</title>
+        <year>2009</year>
+        <genres>
+            <genre>Animation</genre>
+            <genre>Action</genre>
+            <genre>Adventure</genre>
+            <genre>Comedy</genre>
+            <genre>Family</genre>
+            <genre>Romance</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0757858">Carlos Saldanha</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1235142">Last Ride</title>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director imdb="nm1380395">Glendyn Ivin</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0926380">The Boys Are Back</title>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0382956">Scott Hicks</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1073241">Nothing But the Truth</title>
+        <year>2008</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0527109">Rod Lurie</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0899128">100 Feet</title>
+        <year>2008</year>
+        <genres>
+            <genre>Horror</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0714599">Eric Red</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0471041">The Tournament</title>
+        <year>2009</year>
+        <genres>
+            <genre>Action</genre>
+        </genres>
+        <directors>
+            <director imdb="nm1470993">Scott Mann</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0844457">Nordwand, aka North Face (International: English
+			title)
+        </title>
+        <year>2008</year>
+        <genres>
+            <genre>Adventure</genre>
+            <genre>Drama</genre>
+            <genre>History</genre>
+            <genre>Sport</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0836715">Philipp Stölzl</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1019452">A Serious Man</title>
+        <year>2009</year>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0001053">Ethan Coen</director>
+            <director imdb="nm0001054">Joel Coen</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1233227">Saw VI</title>
+        <year>2009</year>
+        <genres>
+            <genre>Crime</genre>
+            <genre>Horror</genre>
+            <genre>Mystery</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0340436">Kevin Greutert</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1075113">Ne te retourne pas</title>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Horror</genre>
+            <genre>Mystery</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0888418">Marina de Van</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1136608">District 9</title>
+        <year>2009</year>
+        <genres>
+            <genre>Action</genre>
+            <genre>Drama</genre>
+            <genre>Sci-Fi</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0088955">Neill Blomkamp</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1225822">Extract</title>
+        <year>2009</year>
+        <genres>
+            <genre>Comedy</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0431918">Mike Judge</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1238291">Five Minutes of Haven</title>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Crime</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0386570">Oliver Hirschbiegel</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1143110">High Life</title>
+        <year>2009</year>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0946750">Gary Yates</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1041829">The Proposal</title>
+        <year>2009</year>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+            <genre>Romance</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0281945">Anne Fletcher</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1068678">Veronika Decides to Die</title>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director imdb="nm1369721">Emily Young</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0974613">The Other Man</title>
+        <year>2008</year>
+        <genres>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0264236">Richard Eyre</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1092633">The Goods: Live Hard, Sell Hard</title>
+        <year>2009</year>
+        <genres>
+            <genre>Comedy</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0107366">Neal Brennan</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1119646">The Hangover</title>
+        <year>2009</year>
+        <genres>
+            <genre>Adventure</genre>
+            <genre>Comedy</genre>
+            <genre>Crime</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0680846">Todd Phillips</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1133993">Serious Moonlight</title>
+        <year>2009</year>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+            <genre>Romance</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0385644">Cheryl Hines</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1152836">Public Enemies</title>
+        <year>2009</year>
+        <genres>
+            <genre>Biography</genre>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+            <genre>History</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0000520">Micheal Mann</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0974014">Creation</title>
+        <year>2009</year>
+        <genres>
+            <genre>Biography</genre>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0000750">Jon Amiel</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1129445">Amelia</title>
+        <year>2009</year>
+        <genres>
+            <genre>Biography</genre>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0619762">Mira Nair</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1205535">The Rebound</title>
+        <year>2009</year>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Romance</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0294505">Bart Freundlich</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1032819">Powder Blue</title>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0119613">Timothy Linh Bui</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1234548">The Men Who Stare at Goats</title>
+        <year>2009</year>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>War</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0381416">Grant Heslov</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0810784">Bright Star</title>
+        <year>2009</year>
+        <genres>
+            <genre>Biography</genre>
+            <genre>Drama</genre>
+            <genre>Romance</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0001005">Jane Campion</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0795351">Case 39</title>
+        <year>2009</year>
+        <genres>
+            <genre>Horror</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0023355">Christian Alvert</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1127877">Cold Souls</title>
+        <year>2009</year>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director imdb="nm1754436">Sophie Barthes</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1182345">Moon</title>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Mystery</genre>
+            <genre>Sci-Fi</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm1512910">Duncan Jones</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1262981">World's Greatest Dad</title>
+        <year>2009</year>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0001281">Bobcat Goldthwait</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1179904">Paranormal Activity</title>
+        <year>2007</year>
+        <genres>
+            <genre>Horror</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm2305431">Oren Peli</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0473705">State of Play</title>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Mystery</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0531817">Kevin Macdonald</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1173494">God on Trial</title>
+        <year>2008</year>
+        <genres>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0214320">Andy DeEmmony</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0844286">The Brothers Bloom</title>
+        <year>2009</year>
+        <genres>
+            <genre>Adventure</genre>
+            <genre>Comedy</genre>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+            <genre>Romance</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0426059">Rian Johnson</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1185431">My One and Only</title>
+        <year>2009</year>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0518644">Richard Loncraine</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1132620">Män Som Hatar Kvinnor</title>
+        <year>2009</year>
+        <genres>
+            <genre>Crime</genre>
+            <genre>Mystery</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0649117">Niels Arden Oplev</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0978762">Mary and Max</title>
+        <year>2009</year>
+        <genres>
+            <genre>Animation</genre>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0254178">Adam Elliot</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0978762">The Limits of Control</title>
+        <year>2009</year>
+        <genres>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0000464">Jim Jarmusch</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0862846">Sunshine Cleaning</title>
+        <year>2008</year>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0420422">Christine Jeffs</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0971209">A Perfect Getaway</title>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Horror</genre>
+            <genre>Mystery</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0878638">David Twohy</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1078588">My Sister's Keeper</title>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0001024">Nick Cassavetes</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0795441">Oorlogswinter</title>
+        <year>2008</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>History</genre>
+            <genre>War</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0465551">Martin Koolhoven</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0762125">Planet 51</title>
+        <year>2009</year>
+        <genres>
+            <genre>Animation</genre>
+            <genre>Adventure</genre>
+            <genre>Comedy</genre>
+            <genre>Family</genre>
+            <genre>Fantasy</genre>
+        </genres>
+        <directors>
+            <director imdb="nm3360961">Jorge Blanco</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0110882">Before the Rain</title>
+        <year>1994</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>War</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0541391">Milcho Manchevski</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1155056">I Love You, Man</title>
+        <year>2009</year>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Romance</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0357453">John Hamburg</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0086182">Rembetiko</title>
+        <year>1983</year>
+        <genres>
+            <genre>Biography</genre>
+            <genre>Drama</genre>
+            <genre>History</genre>
+            <genre>Music</genre>
+            <genre>War</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0002948">Costas Ferris</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1129445">Amelia</title>
+        <year>2009</year>
+        <genres>
+            <genre>Biography</genre>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0619762">Mira Nair</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1226271">The Damned United</title>
+        <year>2009</year>
+        <genres>
+            <genre>Biography</genre>
+            <genre>Drama</genre>
+            <genre>Sport</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0393799">Tom Hooper</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0475296">Hiroshima</title>
+        <year>2005</year>
+        <genres>
+            <genre>History</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0932882">Paul Wilmshurst</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0808399">New York, I Love You</title>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Romance</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0015359">Fatih Akın</director>
+            <director imdb="nm0040939">Yvan Attal</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1232776">Fish Tank</title>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0036349">Andrea Arnold</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1130080">The Informant!</title>
+        <year>2009</year>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0001752">Steven Soderbergh</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1010278">The Courageous Heart of Irena Sendler</title>
+        <year>2009</year>
+        <genres>
+            <genre>Biography</genre>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0006867">John Kent Harrison</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0768239">Storm</title>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0772691">Hans-Christian Schmid</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0292963">Before the Devil Knows You're Dead</title>
+        <year>2007</year>
+        <genres>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0001486">Sidney Lumet</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1187064">Triangle</title>
+        <year>2009</year>
+        <genres>
+            <genre>Horror</genre>
+            <genre>Mystery</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm1247462">Christopher Smith</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0057115">The Great Escape</title>
+        <year>1963</year>
+        <genres>
+            <genre>Action</genre>
+            <genre>Adventure</genre>
+            <genre>Drama</genre>
+            <genre>Thriller</genre>
+            <genre>War</genre>
+            <genre>Horror</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0836328">John Sturges</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1190080">2012</title>
+        <year>2009</year>
+        <genres>
+            <genre>Action</genre>
+            <genre>Adventure</genre>
+            <genre>Drama</genre>
+            <genre>Sci-Fi</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0000386">Roland Emmerich</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1034302">The Cry of the Owl</title>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0861899">Jamie Thraves</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1385824">13B</title>
+        <year>2009</year>
+        <genres>
+            <genre>Horror</genre>
+            <genre>Mystery</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm3347823">Vikram K. Kumar</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0036775">Double Indemnity</title>
+        <year>1944</year>
+        <genres>
+            <genre>Crime</genre>
+            <genre>Film-Noir</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0000697">Billy Wilder</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0064115">Butch Cassidy and the Sundance Kid</title>
+        <year>1969</year>
+        <genres>
+            <genre>Adventure</genre>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+            <genre>Western</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0001351">George Roy Hill</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1305806">El secreto de sus ojos (a.k.a. The Secret in Their
+			Eyes, International English title)
+        </title>
+        <year>2009</year>
+        <genres>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+            <genre>Mystery</genre>
+            <genre>Romance</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0002728">Juan José Campanella</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0083789">Danton</title>
+        <year>1983</year>
+        <genres>
+            <genre>Biography</genre>
+            <genre>Drama</genre>
+            <genre>History</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0906667">Andrzej Wajda</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0064276">Easy Rider</title>
+        <year>1969</year>
+        <genres>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0000454">Dennis Hopper</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0986263">Surrogates</title>
+        <year>2009</year>
+        <genres>
+            <genre>Action</genre>
+            <genre>Sci-Fi</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0609236">Jonathan Mostow</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0072890">Dog Day Afternoon</title>
+        <year>1975</year>
+        <genres>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0001486">Sidney Lumet</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0044081">A Streetcar Named Desire</title>
+        <year>1951</year>
+        <genres>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0001415">Elia Kazan</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0043014">Sunset Blvd.</title>
+        <year>1950</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Film-Noir</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0000697">Billy Wilder</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0074958">Network</title>
+        <year>1976</year>
+        <genres>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0001486">Sidney Lumet</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0052357">Vertigo</title>
+        <year>1958</year>
+        <genres>
+            <genre>Crime</genre>
+            <genre>Mystery</genre>
+            <genre>Romance</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0000033">Alfred Hitchcock</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0374546">Bom yeoreum gaeul gyeoul geurigo bom</title>
+        <year>2003</year>
+        <genres>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director imdb="nm1104118">Ki-duk Kim</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0047573">Them!</title>
+        <year>1954</year>
+        <genres>
+            <genre>Sci-Fi</genre>
+            <genre>Horror</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0235066">Gordon Douglas</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0423866">Bin-jip</title>
+        <year>2004</year>
+        <genres>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+            <genre>Romance</genre>
+        </genres>
+        <directors>
+            <director imdb="nm1104118">Ki-duk Kim</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0428870">Nae meorisokui jiwoogae</title>
+        <year>2004</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Romance</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0497565">John H. Lee</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0456470">Hwal</title>
+        <year>2005</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Romance</genre>
+        </genres>
+        <directors>
+            <director imdb="nm1104118">Ki-duk Kim</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1499666">Kimssi pyoryugi</title>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director imdb="nm1536497">Hae-jun Lee</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1366981">Uzak İhtimal</title>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director imdb="nm3312722">Mahmut Fazıl Coşkun</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0433362">Daybreakers</title>
+        <year>2009</year>
+        <genres>
+            <genre>Action</genre>
+            <genre>Drama</genre>
+            <genre>Horror</genre>
+            <genre>Sci-Fi</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm1294961">Michael Spierig</director>
+            <director imdb="nm1294962">Peter Spierig</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1165253">Bin-mong</title>
+        <year>2008</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Fantasy</genre>
+            <genre>Mystery</genre>
+            <genre>Romance</genre>
+        </genres>
+        <directors>
+            <director imdb="nm1104118">Ki-duk Kim</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0364569">Oldboy</title>
+        <year>2003</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Mystery</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0661791">Chan-wook Park</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0896529">Cairo Time</title>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Romance</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0618779">Ruba Nadda</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1286165">Pazar - Bir Ticaret Masalı</title>
+        <year>2008</year>
+        <genres>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0394114">Ben Hopkins</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1313104">The Cove</title>
+        <year>2009</year>
+        <genres>
+            <genre>Documentary</genre>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director imdb="nm3174775">Louie Psihoyos</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0494864">Tenderness</title>
+        <year>2009</year>
+        <genres>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0689852">John Polson</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1028532">Hachiko: A Dog's Story</title>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Family</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0002120">Lasse Hallström</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0040897">The Treasure of the Sierra Madre</title>
+        <year>1948</year>
+        <genres>
+            <genre>Adventure</genre>
+            <genre>Drama</genre>
+            <genre>Western</genre>
+            <genre>Action</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0001379">John Huston</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0070354">Le magnifique</title>
+        <year>1973</year>
+        <genres>
+            <genre>Action</genre>
+            <genre>Comedy</genre>
+            <genre>Fantasy</genre>
+            <genre>Romance</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0003606">Philippe de Broca</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0063415">The Party</title>
+        <year>1968</year>
+        <genres>
+            <genre>Comedy</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0001175">Blake Edwards</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0362478">The Box</title>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Horror</genre>
+            <genre>Mystery</genre>
+            <genre>Sci-Fi</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0446819">Richard Kelly</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0780511">Everybody's Fine</title>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0428600">Kirk Jones</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1144551">Peter and Vandy</title>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Romance</genre>
+        </genres>
+        <directors>
+            <director imdb="nm2842549">Jay DiPietro</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0054215">Psycho</title>
+        <year>1960</year>
+        <genres>
+            <genre>Horror</genre>
+            <genre>Mystery</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0000033">Alfred Hitchcock</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1247704">Women in Trouble</title>
+        <year>2009</year>
+        <genres>
+            <genre>Comedy</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0349406">Sebastian Gutierrez</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0047478">Shichinin no samurai</title>
+        <year>1954</year>
+        <genres>
+            <genre>Action</genre>
+            <genre>Adventure</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0000041">Akira Kurosawa</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0293715">Yeopgijeogin geunyeo</title>
+        <year>2001</year>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+            <genre>Romance</genre>
+        </genres>
+        <directors>
+            <director imdb="nm1030706">Jae-young Kwak</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0397619">Samaria</title>
+        <year>2004</year>
+        <genres>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director imdb="nm1104118">Ki-duk Kim</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0046912">Dial M for Murder</title>
+        <year>1954</year>
+        <genres>
+            <genre>Crime</genre>
+            <genre>Mystery</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0000033">Alfred Hitchcock</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1235166">Un prophète</title>
+        <year>2009</year>
+        <genres>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0002191">Jacques Audiard</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1183921">The Vicious Kind</title>
+        <year>2009</year>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director imdb="nm1767218">Lee Toland Krieger</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0762073">Bakjwi</title>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Horror</genre>
+            <genre>Romance</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0661791">Chan-wook Park</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1193138">Up in the air</title>
+        <year>2009</year>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+            <genre>Romance</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0718646">Jason Reitman</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0074806">The Little Girl Who Lives Down the Lane</title>
+        <year>1976</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Horror</genre>
+            <genre>Mystery</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0004654">Nicolas Gessner</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1197624">Law Abiding Citizen</title>
+        <year>2009</year>
+        <genres>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0336620">F. Gary Gray</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0875034">Nine</title>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Musical</genre>
+            <genre>Romance</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0551128">Rob Marshall</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="">The Penguins of Madagascar Operation: DVD Premier
+        </title>
+        <year>2010</year>
+        <genres>
+            <genre>Animation</genre>
+            <genre>Family</genre>
+        </genres>
+        <directors />
+    </movie>
+    <movie>
+        <title imdb="tt0887912">The Hurt Locker</title>
+        <year>2008</year>
+        <genres>
+            <genre>Action</genre>
+            <genre>Drama</genre>
+            <genre>Thriller</genre>
+            <genre>War</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0000941">Kathryn Bigelow</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0821642">The Soloist</title>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Biography</genre>
+            <genre>Music</genre>
+        </genres>
+        <directors>
+            <director imdb="m0942504">Joe Wright</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1186830">Agora</title>
+        <year>2009</year>
+        <genres>
+            <genre>Adventure</genre>
+            <genre>Drama</genre>
+            <genre>History</genre>
+            <genre>Romance</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0024622">Alejandro Amenábar</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1220220">Motherhood</title>
+        <year>2009</year>
+        <genres>
+            <genre>Comedy</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0225869">Katherine Dieckmann</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0065214">The Wild Brunch</title>
+        <year>1969</year>
+        <genres>
+            <genre>Action</genre>
+            <genre>Western</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0001603">Sam Peckinpah</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1523515">Neşeli Hayat</title>
+        <year>2009</year>
+        <genres>
+            <genre>Comedy</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0258784">Yılmaz Erdoğan</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1226232">The Greatest</title>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0275277">Shana Feste</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1370212">My Only Sunshine</title>
+        <year>2008</year>
+        <genres>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0258732">Reha Erdem</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0094608">The Accused</title>
+        <year>1988</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0438279">Jonathan Kaplan</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0092965">Empire of the Sun</title>
+        <year>1987</year>
+        <genres>
+            <genre>Action</genre>
+            <genre>Drama</genre>
+            <genre>War</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0000229">Steven Spielberg</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0086066">The Outsiders</title>
+        <year>1983</year>
+        <genres>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+            <genre>Romance</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0000338">Francis Ford Coppola</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1300851">The Boondock Saints II: All Saints Day</title>
+        <year>2009</year>
+        <genres>
+            <genre>Action</genre>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0240627">Troy Duffy</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1179034">From Paris with Love</title>
+        <year>2010</year>
+        <genres>
+            <genre>Action</genre>
+            <genre>Crime</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0603628">Pierre Morel</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0110005">Heavenly Creatures</title>
+        <year>1994</year>
+        <genres>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+            <genre>Romance</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0001392">Peter Jackson</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1220719">Yip Man</title>
+        <year>2008</year>
+        <genres>
+            <genre>Action</genre>
+            <genre>Biography</genre>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0948159">Wilson Yip</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1134629">The Private Lives of Pippa Lee</title>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Romance</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0589182">Rebecca Miller</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1054606">The Imaginarium of Doctor Parnassus</title>
+        <year>2009</year>
+        <genres>
+            <genre>Adventure</genre>
+            <genre>Fantasy</genre>
+            <genre>Mystery</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0000416">Terry Gilliam</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1234548">The Men Who Stare at Goats</title>
+        <year>2009</year>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>War</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0381416">Grant Heslov</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0844471">Cloudy with a Chance of Meatballs</title>
+        <year>2009</year>
+        <genres>
+            <genre>Animation</genre>
+            <genre>Family</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0520488">Phil Lord</director>
+            <director imdb="nm0588087">Chris Miller</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0780521">The Princess and the Frog</title>
+        <year>2009</year>
+        <genres>
+            <genre>Animation</genre>
+            <genre>Family</genre>
+            <genre>Fantasy</genre>
+            <genre>Musical</genre>
+            <genre>Romance</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0166256">Ron Clements</director>
+            <director imdb="nm0615780">John Musker</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1174732">An Education</title>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0771054">Lone Scherfig</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0499549">Avatar</title>
+        <year>2009</year>
+        <genres>
+            <genre>Action</genre>
+            <genre>Adventure</genre>
+            <genre>Sci-Fi</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0000116">James Cameron</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0499549">Avatar 3D</title>
+        <year>2009</year>
+        <genres>
+            <genre>Action</genre>
+            <genre>Adventure</genre>
+            <genre>Sci-Fi</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0000116">James Cameron</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0929632">Precious: Based on the Novel Push by Sapphire
+        </title>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0200005">Lee Daniels</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0878804">The Blind Side</title>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Sport</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0359387">John Lee Hancock</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1259571">New Moon</title>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Fantasy</genre>
+            <genre>Horror</genre>
+            <genre>Romance</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0919363">Chris Weitz</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0432283">Fantastic Mr. Fox</title>
+        <year>2009</year>
+        <genres>
+            <genre>Animation</genre>
+            <genre>Adventure</genre>
+            <genre>Comedy</genre>
+            <genre>Family</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0027572">Wes Anderson</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0988045">Sherlock Holmes</title>
+        <year>2009</year>
+        <genres>
+            <genre>Action</genre>
+            <genre>Adventure</genre>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+            <genre>Mystery</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0005363">Guy Ritchie</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0102494">My Own Private Idaho</title>
+        <year>1991</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Romance</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0001814">Gus Van Sant</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0898367">The Road</title>
+        <year>2009</year>
+        <genres>
+            <genre>Adventure</genre>
+            <genre>Drama</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0384825">John Hillcoat</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1080716">Karamazovi</title>
+        <year>2008</year>
+        <genres>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0954500">Petr Zelenka</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1132620">Män som hatar kvinnor</title>
+        <year>2009</year>
+        <genres>
+            <genre>Crime</genre>
+            <genre>Mystery</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0649117">Niels Arden Oplev</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0844479">The Collector</title>
+        <year>2009</year>
+        <genres>
+            <genre>Crime</genre>
+            <genre>Horror</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm1729303">Marcus Dunstan</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0118849">Bacheha-Ye aseman (Children of Heaven)</title>
+        <year>1997</year>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+            <genre>Family</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0006498">Majid Majidi</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0468704">Deiji (Daisy)</title>
+        <year>2006</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Romance</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0490487">Wai-keung Lau</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1151359">Leaves of Grass</title>
+        <year>2009</year>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0625789">Tim Blake Nelson</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0086250">Scarface</title>
+        <year>1983</year>
+        <genres>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0000361">Brian De Palma</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0324554">Wicker Park</title>
+        <year>2004</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Mystery</genre>
+            <genre>Romance</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0006476">Paul McGuigan</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0115561">L'appartement</title>
+        <year>1996</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Mystery</genre>
+            <genre>Romance</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0590813">Gilles Mimouni</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1210042">Brooklyn's Finest</title>
+        <year>2009</year>
+        <genres>
+            <genre>Action</genre>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0298807">Antoine Fuqua</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1461312">Alice</title>
+        <year>2009</year>
+        <genres>
+            <genre>Fantasy</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0932216">Nick Willing</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1135487">Duplicity</title>
+        <year>2009</year>
+        <genres>
+            <genre>Romance</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0006904">Tony Gilroy</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1289406">Harry Brown</title>
+        <year>2009</year>
+        <genres>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm2905562">Daniel Barber</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0364517">Jeux D'enfants</title>
+        <year>2003</year>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+            <genre>Romance</genre>
+        </genres>
+        <directors>
+            <director imdb="nm1367933">Yann Samuel</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1303828">Defendor</title>
+        <year>2009</year>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0824220">Peter Stebbings</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1226273">Edge of Darkness</title>
+        <year>2010</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0132709">Martin Campbell</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0425123">Just Like Heaven</title>
+        <year>2005</year>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Fantasy</genre>
+            <genre>Romance</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0132709">Mark Waters</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0212712">2046</title>
+        <year>2004</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Fantasy</genre>
+            <genre>Romance</genre>
+            <genre>Sci-Fi</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0939182">Kar Wai Wong</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0765010">Brothers</title>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Thriller</genre>
+            <genre>War</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0006487">Jim Sheridan</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1263670">Crazy Heart</title>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Music</genre>
+            <genre>Romance</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0178376">Scott Cooper</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1130884">Shutter Island</title>
+        <year>2010</year>
+        <genres>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+            <genre>Mystery</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0000217">Martin Scorsese</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1512894">Kıskanmak</title>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0218547">Zeki Demirkubuz</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1149362">Das weisse Band - Eine deutsche Kindergeschichte</title>
+        <year>2009</year>
+        <genres>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+            <genre>Mystery</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0359734">Michael Haneke</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0380510">The Lovely Bones</title>
+        <year>2009</year>
+        <genres>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+            <genre>Fantasy</genre>
+            <genre>Horror</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0001392">Peter Jackson</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1426361">Eastern Plays (Şark Oyunları)</title>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director imdb="nm1189816">Kamen Kalev</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0995039">Ghost Town</title>
+        <year>2008</year>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Fantasy</genre>
+            <genre>Romance</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0462895">David Koepp</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0181875">Almost Famous</title>
+        <year>2000</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Music</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0001081">Cameron Crowe</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0381940">Cargo</title>
+        <year>2009</year>
+        <genres>
+            <genre>Sci-Fi</genre>
+        </genres>
+        <directors>
+            <director imdb="nm1393530">Ivan Engler</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1319694">Glorious 39</title>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>History</genre>
+            <genre>Romance</genre>
+            <genre>Thriller</genre>
+            <genre>War</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0689081">Stephen Poliakoff</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1097643">Fifty Dead Men Walking</title>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0804556">Kari Skogland</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0758751">Grey Gardens</title>
+        <year>2009</year>
+        <genres>
+            <genre>Biography</genre>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director imdb="nm1302591">Michael Sucsy</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1038919">The Bounty Hunter</title>
+        <year>2010</year>
+        <genres>
+            <genre>Action</genre>
+            <genre>Comedy</genre>
+            <genre>Crime</genre>
+            <genre>Romance</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0855035">Andy Tennant</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1065318">To Verdener</title>
+        <year>2008</year>
+        <genres>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0649117">Niels Arden Oplev</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1558877">Vavien</title>
+        <year>2009</year>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm1533201">Durul Taylan</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0032983">The Return of Frank James</title>
+        <year>1940</year>
+        <genres>
+            <genre>Western</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0000485">Fritz Lang</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1483831">Lebanon</title>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>War</genre>
+        </genres>
+        <directors>
+            <director imdb="nm1413443">Samuel Maoz</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt0417741">Harry Potter and the Half-Blood Prince</title>
+        <year>2009</year>
+        <genres>
+            <genre>Action</genre>
+            <genre>Adventure</genre>
+            <genre>Family</genre>
+            <genre>Fantasy</genre>
+            <genre>Mystery</genre>
+            <genre>Romance</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0946734">David Yates</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1224373">Slovenka</title>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0468995">Damjan Kozole</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1361326">9:06</title>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <directors>
+            <director imdb="nm0827459">Igor Sterk</director>
+        </directors>
+    </movie>
+    <movie>
+        <title imdb="tt1415283">Nanny McPhee and the Big Bang</title>
+        <directors>
+            <director imdb="nm1264352">Susanna White</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Family</genre>
+            <genre>Fantasy</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1179794">Timer</title>
+        <directors>
+            <director imdb="nm2356614">Jac Schaeffer</director>
+        </directors>
+        <year>2009</year>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+            <genre>Fantasy</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1017451" >The Runaways</title>
+        <directors>
+            <director imdb="nm0797455">Floria Sigismondi</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Biography</genre>
+            <genre>Drama</genre>
+            <genre>Music</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1385867">Cop out</title>
+        <directors>
+            <director imdb="nm0003620">Kevin Smith</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Action</genre>
+            <genre>Comedy</genre>
+            <genre>Crime</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt0445054">7 Days</title>
+        <directors>
+            <director imdb="nm0343898">Daniel Grou</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Thriller</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1594918">Eyyvah Eyvah</title>
+        <directors>
+            <director imdb="nm1699659">Hakan Algül</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Comedy</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1589424">Dersimiz: Atatürk</title>
+        <directors>
+            <director imdb="nm1485677">Hamdi Alkan</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Documentary</genre>
+            <genre>Biography</genre>
+            <genre>Drama</genre>
+            <genre>War</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1132620">The Girl with the Dragon Tattoo</title>
+        <directors>
+            <director imdb="nm0649117">Niels Arden Oplev</director>
+        </directors>
+        <year>2009</year>
+        <genres>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+            <genre>Mystery</genre>
+            <genre>Thriler</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt0878835">Please Give</title>
+        <directors>
+            <director imdb="nm0392237">Nicole Holofcener</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1017460">Splice</title>
+        <directors>
+            <director imdb="nm0622112">Vincenzo Natali</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Sci-Fi</genre>
+            <genre>Thriller</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1590024">Eu cand vreau sa fluier, fluier</title>
+        <directors>
+            <director imdb="nm2758521">Florin Servan</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Drama</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1470827">Monsters</title>
+        <directors>
+            <director imdb="nm2284484">Gareth Edwards</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Horror</genre>
+            <genre>Sci-Fi</genre>
+            <genre>Thriller</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt0435761">Toy Story 3</title>
+        <directors>
+            <director imdb="nm0881279">Lee Unkrich</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Animation</genre>
+            <genre>Adventure</genre>
+            <genre>Comedy</genre>
+            <genre>Family</genre>
+            <genre>Fantasy</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt0429493">The A-Team</title>
+        <directors>
+            <director imdb="nm0138620">Joe Carnahan</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Action</genre>
+            <genre>Adventure</genre>
+            <genre>Thriller</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt0429493">Knight and Day</title>
+        <directors>
+            <director imdb="nm0003506">James Mangold</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Action</genre>
+            <genre>Adventure</genre>
+            <genre>Comedy</genre>
+            <genre>Thriller</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1320253">The Expendables</title>
+        <directors>
+            <director imdb="nm0000230">Sylvester Stallone</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Action</genre>
+            <genre>Adventure</genre>
+            <genre>Thriller</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt0947810">Green Zone</title>
+        <directors>
+            <director imdb="nm0339030">Paul Greengrass</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Action</genre>
+            <genre>Drama</genre>
+            <genre>Thriller</genre>
+            <genre>War</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1235796">Ondine</title>
+        <directors>
+            <director imdb="nm0001403">Neil Jordan</director>
+        </directors>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Romance</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1216492">Leap Year</title>
+        <directors>
+            <director imdb="nm0875793">Anand Tucker</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Romance</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1313092">Animal Kingdom</title>
+        <directors>
+            <director imdb="nm2391575">David Michôd</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt0892769">How to Train Your Dragon</title>
+        <directors>
+            <director imdb="nm0213450">Dean DeBlois</director>
+            <director imdb="nm0761498">Chris Sanders</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Animation</genre>
+            <genre>Adventure</genre>
+            <genre>Comedy</genre>
+            <genre>Family</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1386683">En ganske snill mann (A Somewhat Gentle Man)</title>
+        <directors>
+            <director imdb="nm0596407">Hans Petter Moland</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1542852">Carancho</title>
+        <directors>
+            <director imdb="nm0871086">Pablo Trapero</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+            <genre>Romance</genre>
+            <genre>Thriller</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1121977">Mother and Child</title>
+        <directors>
+            <director imdb="nm0006554">Rodrigo García</director>
+        </directors>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1156143">Wild Grass</title>
+        <directors>
+            <director imdb="nm0720297">Alain Resnais</director>
+        </directors>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Romance</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1399683">Winter's Bone</title>
+        <directors>
+            <director imdb="nm0335138">Debra Granik</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Mystery</genre>
+            <genre>Thriller</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt0435761">Toy Story 3</title>
+        <directors>
+            <director imdb="nm0881279">Lee Unkrich</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Animation</genre>
+            <genre>Adventure</genre>
+            <genre>Comedy</genre>
+            <genre>Family</genre>
+            <genre>Fantasy</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1465487">L'arnacoeur</title>
+        <directors>
+            <director imdb="nm0154312">Pascal Chaumeil</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Romance</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1375666">Inception</title>
+        <directors>
+            <director imdb="nm0634240">Christopher Nolan</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Action</genre>
+            <genre>Crime</genre>
+            <genre>Mystery</genre>
+            <genre>Sci-Fi</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1284591">Süt</title>
+        <directors>
+            <director imdb="nm0969427">Semih Kaplanoglu</director>
+        </directors>
+        <year>2008</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Crime</genre>
+            <genre>Mystery</genre>
+            <genre>Sci-Fi</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1571724">Bal</title>
+        <directors>
+            <director imdb="nm0969427">Semih Kaplanoglu</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Action</genre>
+            <genre>Crime</genre>
+            <genre>Mystery</genre>
+            <genre>Sci-Fi</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1021004">Yumurta</title>
+        <directors>
+            <director imdb="nm0969427">Semih Kaplanoglu</director>
+        </directors>
+        <year>2007</year>
+        <genres>
+            <genre>Drama</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt0171804">Boys Don't Cry</title>
+        <directors>
+            <director imdb="nm0005303">Kimberly Peirce</director>
+        </directors>
+        <year>1999</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Crime</genre>
+            <genre>Romance</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1194417">Casino Jack</title>
+        <directors>
+            <director imdb="nm0382584">George Hickenlooper</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Biography</genre>
+            <genre>Comedy</genre>
+            <genre>Crime</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1235189">Wild Target</title>
+        <directors>
+            <director imdb="nm0528718">Jonathan Lynn</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Action</genre>
+            <genre>Comedy</genre>
+            <genre>Crime</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt0133093">The Matrix</title>
+        <directors>
+            <director imdb="nm0905152">Andy Wachowski</director>
+            <director imdb="nm0905154">Lana Wachowski</director>
+        </directors>
+        <year>1999</year>
+        <genres>
+            <genre>Action</genre>
+            <genre>Adventure</genre>
+            <genre>Sci-Fi</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt0234215">The Matrix Reloaded</title>
+        <directors>
+            <director imdb="nm0905152">Andy Wachowski</director>
+            <director imdb="nm0905154">Lana Wachowski</director>
+        </directors>
+        <year>2003</year>
+        <genres>
+            <genre>Action</genre>
+            <genre>Adventure</genre>
+            <genre>Sci-Fi</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt0242653">The Matrix Revolutions</title>
+        <directors>
+            <director imdb="nm0905152">Andy Wachowski</director>
+            <director imdb="nm0905154">Lana Wachowski</director>
+        </directors>
+        <year>2003</year>
+        <genres>
+            <genre>Action</genre>
+            <genre>Adventure</genre>
+            <genre>Sci-Fi</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1242422">Cell 211</title>
+        <directors>
+            <director imdb="nm0905152">Daniel Monzón</director>
+        </directors>
+        <year>2009</year>
+        <genres>
+            <genre>Action</genre>
+            <genre>Drama</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1587278">South Solitary</title>
+        <directors>
+            <director imdb="nm0057284">Shirley Barrett</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Drama</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1440728">The American</title>
+        <directors>
+            <director imdb="nm0179221">Anton Corbijn</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt0840361">The Town</title>
+        <directors>
+            <director imdb="nm0000255">Ben Affleck</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+            <genre>Thriller</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt0889573">The Switch</title>
+        <directors>
+            <director imdb="nm0330347">Josh Gordon</director>
+            <director imdb="nm0330347">Will Speck</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+            <genre>Romance</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1314655">Devil</title>
+        <directors>
+            <director imdb="nm0235719">John Erick Dowdle</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Horror</genre>
+            <genre>Mystery</genre>
+            <genre>Thriller</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1285016">The Social Network</title>
+        <directors>
+            <director imdb="nm0000399">David Fincher</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Biography</genre>
+            <genre>Drama</genre>
+            <genre>History</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1421051">Somewhere</title>
+        <directors>
+            <director imdb="nm0001068">Sofia Coppola</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Drama</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1462758">Buried</title>
+        <directors>
+            <director imdb="nm0181579">Rodrigo Cortés</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Mystery</genre>
+            <genre>Thriller</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1401143">Rare Exports: A Christmas Tale</title>
+        <directors>
+            <director imdb="nm1118351">Jalmari Helander</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Action</genre>
+            <genre>Comedy</genre>
+            <genre>Fantasy</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt0446029">Scott Pilgrim vs. the World</title>
+        <directors>
+            <director imdb="nm0942367">Edgar Wright</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Adventure</genre>
+            <genre>Comedy</genre>
+            <genre>Fantasy</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1322385">Submarino</title>
+        <directors>
+            <director imdb="nm0899121">Thomas Vinterberg</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Drama</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1588895">Uncle Boonmee Who Can Recall His Past Lives</title>
+        <directors>
+            <director imdb="nm0917405">Apichatpong Weerasethakul</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Fantasy</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1456941">Tomorrow, When the War Began</title>
+        <directors>
+            <director imdb="nm0064181">Stuart Beattie</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Action</genre>
+            <genre>Adventure</genre>
+            <genre>Drama</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1496005">The Tree</title>
+        <directors>
+            <director imdb="nm0078465">Julie Bertucelli</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Drama</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1334260">Never Let Me Go</title>
+        <directors>
+            <director imdb="nm0738796">Mark Romanek</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Sci-Fi</genre>
+            <genre>Thriller</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1423995">Stone</title>
+        <directors>
+            <director imdb="nm0192845">John Curran</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Thriller</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1339161" >The Robber</title>
+        <directors>
+            <director imdb="nm0374663">Benjamin Heisenberg</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Biography</genre>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1187044">The Maid</title>
+        <directors>
+            <director imdb="nm2928364">Sebastián Silva</director>
+        </directors>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1527788">The Man From Nowhere</title>
+        <directors>
+            <director imdb="nm2556572">Jeong-beom Lee</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Action</genre>
+            <genre>Crime</genre>
+            <genre>Thriller</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1646926">Open Season 3</title>
+        <directors>
+            <director imdb="nm0970606">Cody Cameron</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Animation</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt0485947">Mr. Nobody</title>
+        <directors>
+            <director imdb="nm0233757">Jaco Van Dormael</director>
+        </directors>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Fantasy</genre>
+            <genre>Romance</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt0879870">Eat Pray Love</title>
+        <directors>
+            <director imdb="nm0614682">Ryan Murphy</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Romance</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1278379">Jack Goes Boating</title>
+        <directors>
+            <director imdb="nm0000450">Philip Seymour Hoffman</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+            <genre>Romance</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1320082">The Concert</title>
+        <directors>
+            <director imdb="nm0586123">Radu Mihaileanu</director>
+        </directors>
+        <year>2009</year>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+            <genre>Music</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1148200">Chain Letter</title>
+        <directors>
+            <director imdb="nm1938064">Deon Taylor</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Horror</genre>
+            <genre>Thriller</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt0804497">It's Kind of a Funny Story</title>
+        <directors>
+            <director imdb="nm1349818">Anna Boden</director>
+            <director imdb="nm0281396">Ryan Fleck</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt0758752">Love and Other Drugs</title>
+        <directors>
+            <director imdb="nm0001880">Edward Zwick</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt0977855">Fair Game</title>
+        <directors>
+            <director imdb="nm0510731">Daug Liman</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Action</genre>
+            <genre>Biography</genre>
+            <genre>Drama</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1504320">Due Date</title>
+        <directors>
+            <director imdb="nm0680846">Todd Phillips</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Comedy</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1504320">The King's Speech</title>
+        <directors>
+            <director imdb="nm0393799">Tom Hooper</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>History</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt0842926">The Kids are All Right</title>
+        <directors>
+            <director imdb="nm0158966">Lisa Cholodenko</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1323594">Despicable Me</title>
+        <directors>
+            <director imdb="nm1853544">Pierre Coffin</director>
+            <director imdb="nm0719208">Schris Renaud</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Animation</genre>
+            <genre>Comedy</genre>
+            <genre>Family</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1441373">The Solitude of Prime Numbers</title>
+        <directors>
+            <director imdb="nm0182459">Saverio Costanzo</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Drama</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1024942">Kærlighed på film</title>
+        <directors>
+            <director imdb="nm0097079">Ole Bornedal</director>
+        </directors>
+        <year>2007</year>
+        <genres>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+            <genre>Thriller</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1182350">You Will Meet a Tall Dark Stranger</title>
+        <directors>
+            <director imdb="nm0000095">Woody Allen</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Romance</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt0981042">Like Dandelion Dust</title>
+        <directors>
+            <director imdb="nm0348197">Jon Gunn</director>
+        </directors>
+        <year>2009</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Family</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1523498">The Passion</title>
+        <directors>
+            <director imdb="nm0563473">Carlo Mazzacurati</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt0817177">Flipped</title>
+        <directors>
+            <director imdb="nm0001661">Rob Reiner</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+            <genre>Romance</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt0802948">An American Crime</title>
+        <directors>
+            <director imdb="nm0641373">Tommy O'Haver</director>
+        </directors>
+        <year>2007</year>
+        <genres>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt0798817">13</title>
+        <directors>
+            <director imdb="nm1201875">Géla Babluani</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Thriller</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1242432">I Spit on Your Grave</title>
+        <directors>
+            <director imdb="nm0003458">Steven R. Monroe</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Crime</genre>
+            <genre>Horror</genre>
+            <genre>Thriller</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1179034">From Paris with Love</title>
+        <directors>
+            <director imdb="nm0603628">Pierre Morel</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Action</genre>
+            <genre>Crime</genre>
+            <genre>Thriller</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1075110">The Misfortunates</title>
+        <directors>
+            <director imdb="nm0886976">Felix Van Groeningen</director>
+        </directors>
+        <year>2009</year>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1028576">Secretariat</title>
+        <directors>
+            <director imdb="nm0908824">Randall Wallace</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Family</genre>
+            <genre>History</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1055292">Life as We Know It</title>
+        <directors>
+            <director imdb="nm0075528">Greg Berlanti</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+        </genres>
+        <file folder="movies" filename="life.as.we.know.it.2010.480p.xac3.ivd.ltrg.avi"/>
+    </movie>
+    <movie>
+        <title imdb="tt1228987">Let Me In</title>
+        <directors>
+            <director imdb="nm0716257">Matt Reeves</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Fantasy</genre>
+            <genre>Horror</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1244754">Conviction</title>
+        <directors>
+            <director imdb="nm0001282">Tony Goldwyn</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Biography</genre>
+            <genre>Drama</genre>
+            <genre>Thriller</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1194263">Get Low</title>
+        <directors>
+            <director imdb="nm0773689">Aaron Schneider</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Mystery</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1183911">Mr. Nice</title>
+        <directors>
+            <director imdb="nm0741262">Bernard Rose</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1403988">The Romantics</title>
+        <directors>
+            <director imdb="nm0630633">Galt Niederhoffer</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+            <genre>Romance</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1196141">Diary of a Wimpy Kid</title>
+        <directors>
+            <director imdb="nm0294457">Thor Freudenthal</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Family</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1542344">127 Hours</title>
+        <directors>
+            <director imdb="nm0000965">Danny Boyle</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Adventure</genre>
+            <genre>Drama</genre>
+            <genre>Thriller</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1234654">Greenberg</title>
+        <directors>
+            <director imdb="nm0000876">Noah Baumbach</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+            <genre>Romance</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt0997035">Bibliothèque Pascal</title>
+        <directors>
+            <director imdb="nm0354451">Szabolcs Hajdu</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Drama</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt0985694">Machete</title>
+        <directors>
+            <director imdb="nm0542450">Ethan Maniquis</director>
+            <director imdb="nm0001675">Robert Rodríguez</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Action</genre>
+            <genre>Comedy</genre>
+            <genre>Crime</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1458175">The Next Three Days</title>
+        <directors>
+            <director imdb="nm0353673">Paul Haggis</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+            <genre>Romance</genre>
+        </genres>
+    </movie>
+    <movie>
+        <title imdb="tt1510938" >The Sunset Limited</title>
+        <directors>
+            <director imdb="nm0000169">Tommy Lee Jones</director>
+        </directors>
+        <year>2011</year>
+        <genres>
+            <genre>Drama</genre>
+        </genres>
+    </movie>
+    <movie >
+        <title imdb="tt1243957">The Tourist</title>
+        <directors>
+            <director imdb="nm0003697">Florian Henckel von Donnersmarck</director>
+        </directors>
+        <year>2010</year>
+        <genres>
+            <genre>Action</genre>
+            <genre>Drama</genre>
+            <genre>Romance</genre>
+        </genres>
+    </movie>
+</movies>

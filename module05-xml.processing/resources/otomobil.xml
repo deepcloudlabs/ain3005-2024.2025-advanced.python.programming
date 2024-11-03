@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<otomobiller xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://www.omegaegitim.com/bte550/2011/hw2 otomobil.xsd"
+             xmlns="http://www.omegaegitim.com/bte550/2011/hw2">
+    <otomobil marka="Ford" model="Mustang">
+        <uzunluk birim="mm">4610</uzunluk>
+        <yükseklik birim="mm">1351</yükseklik>
+        <genislik birim="mm">1824</genislik>
+        <agirlik birim="kg">1490</agirlik>
+        <bagaj_hacmi birim="m3">309</bagaj_hacmi>
+        <motor_hacmi birim="cc">4601</motor_hacmi>
+        <silindir_adedi birim="adet">8</silindir_adedi>
+        <beygir_gucu birim="hp">228</beygir_gucu>
+        <yuz_km_sn birim="sec">5.3</yuz_km_sn>
+        <dingil_mesafesi birim="cm">1753</dingil_mesafesi>
+        <yakit_tuketimi birim="lt">9.1</yakit_tuketimi>
+    </otomobil>
+    <otomobil marka="Ford" model="Mondeo">
+        <uzunluk birim="mm">4214</uzunluk>
+        <genislik birim="mm">1802</genislik>
+        <yükseklik birim="mm">1573</yükseklik>
+        <agirlik birim="kg">1250</agirlik>
+        <bagaj_hacmi birim="m3">255</bagaj_hacmi>
+        <motor_hacmi birim="cc">1600</motor_hacmi>
+        <silindir_adedi birim="adet">4</silindir_adedi>
+        <beygir_gucu birim="hp">110</beygir_gucu>
+        <yuz_km_sn birim="sec">12.3</yuz_km_sn>
+        <dingil_mesafesi birim="cm">1913</dingil_mesafesi>
+        <yakit_tuketimi birim="lt">10.1</yakit_tuketimi>
+    </otomobil>
+    <otomobil marka="Ford" model="Focus">
+        <uzunluk birim="mm">3897</uzunluk>
+        <genislik birim="mm">1673</genislik>
+        <yükseklik birim="mm">1350</yükseklik>
+        <agirlik birim="kg">1203</agirlik>
+        <bagaj_hacmi birim="m3">254</bagaj_hacmi>
+        <motor_hacmi birim="cc">1600</motor_hacmi>
+        <silindir_adedi birim="adet">4</silindir_adedi>
+        <beygir_gucu birim="hp">120</beygir_gucu>
+        <yuz_km_sn birim="sec">11.6</yuz_km_sn>
+        <dingil_mesafesi birim="cm">1672</dingil_mesafesi>
+        <yakit_tuketimi birim="lt">12.1</yakit_tuketimi>
+    </otomobil>
+    <otomobil marka='Renault' model='Fluence'>
+        <uzunluk birim='mm'>3319</uzunluk>
+        <genislik birim='mm'>1762</genislik>
+        <yükseklik birim='mm'>1642</yükseklik>
+        <agirlik birim='kg'>1500</agirlik>
+        <bagaj_hacmi birim='m3'>312</bagaj_hacmi>
+        <motor_hacmi birim='cc'>1600</motor_hacmi>
+        <silindir_adedi birim="adet">4</silindir_adedi>
+        <beygir_gucu birim='hp'>125</beygir_gucu>
+        <yuz_km_sn birim='sec'>8.3</yuz_km_sn>
+        <dingil_mesafesi birim='cm'>1632</dingil_mesafesi>
+        <yakit_tuketimi birim='lt'>15.1</yakit_tuketimi>
+    </otomobil>
+    <otomobil marka='Renault' model='Megane'>
+        <uzunluk birim='mm'>4209</uzunluk>
+        <genislik birim='mm'>1782</genislik>
+        <yükseklik birim='mm'>1641</yükseklik>
+        <agirlik birim='kg'>1602</agirlik>
+        <bagaj_hacmi birim='m3'>350</bagaj_hacmi>
+        <motor_hacmi birim='cc'>1800</motor_hacmi>
+        <silindir_adedi birim="adet">4</silindir_adedi>
+        <beygir_gucu birim='hp'>145</beygir_gucu>
+        <yuz_km_sn birim='sec'>15.3</yuz_km_sn>
+        <dingil_mesafesi birim='cm'>1651</dingil_mesafesi>
+        <yakit_tuketimi birim='lt'>10.1</yakit_tuketimi>
+    </otomobil>
+    <otomobil marka='Honda' model='Civic'>
+        <uzunluk birim='mm'>3962</uzunluk>
+        <genislik birim='mm'>1752</genislik>
+        <yükseklik birim='mm'>1292</yükseklik>
+        <agirlik birim='kg'>1648</agirlik>
+        <bagaj_hacmi birim='m3'>401</bagaj_hacmi>
+        <motor_hacmi birim='cc'>1600</motor_hacmi>
+        <silindir_adedi birim="adet">4</silindir_adedi>
+        <beygir_gucu birim='hp'>168</beygir_gucu>
+        <yuz_km_sn birim='sec'>15.3</yuz_km_sn>
+        <dingil_mesafesi birim='cm'>1852</dingil_mesafesi>
+        <yakit_tuketimi birim='lt'>16.1</yakit_tuketimi>
+    </otomobil>
+    <otomobil marka='Honda' model='Jazz'>
+        <uzunluk birim='mm'>3971</uzunluk>
+        <genislik birim='mm'>1943</genislik>
+        <yükseklik birim='mm'>1672</yükseklik>
+        <agirlik birim='kg'>1532</agirlik>
+        <bagaj_hacmi birim='m3'>376</bagaj_hacmi>
+        <motor_hacmi birim='cc'>1400</motor_hacmi>
+        <silindir_adedi birim="adet">4</silindir_adedi>
+        <beygir_gucu birim='hp'>120</beygir_gucu>
+        <yuz_km_sn birim='sec'>7.9</yuz_km_sn>
+        <dingil_mesafesi birim='cm'>1962</dingil_mesafesi>
+        <yakit_tuketimi birim='lt'>11.1</yakit_tuketimi>
+    </otomobil>
+    <otomobil marka='Honda' model='City'>
+        <uzunluk birim='mm'>4986</uzunluk>
+        <genislik birim='mm'>1954</genislik>
+        <yükseklik birim='mm'>1574</yükseklik>
+        <agirlik birim='kg'>1834</agirlik>
+        <bagaj_hacmi birim='m3'>297</bagaj_hacmi>
+        <motor_hacmi birim='cc'>1600</motor_hacmi>
+        <silindir_adedi birim="adet">4</silindir_adedi>
+        <beygir_gucu birim='hp'>135</beygir_gucu>
+        <yuz_km_sn birim='sec'>15.3</yuz_km_sn>
+        <dingil_mesafesi birim='cm'>1943</dingil_mesafesi>
+        <yakit_tuketimi birim='lt'>14.7</yakit_tuketimi>
+    </otomobil>
+    <otomobil marka='Honda' model='Accord'>
+        <uzunluk birim='mm'>3721</uzunluk>
+        <genislik birim='mm'>1932</genislik>
+        <yükseklik birim='mm'>1672</yükseklik>
+        <agirlik birim='kg'>1203</agirlik>
+        <bagaj_hacmi birim='m3'>402</bagaj_hacmi>
+        <motor_hacmi birim='cc'>1250</motor_hacmi>
+        <silindir_adedi birim="adet">4</silindir_adedi>
+        <beygir_gucu birim='hp'>140</beygir_gucu>
+        <yuz_km_sn birim='sec'>15.3</yuz_km_sn>
+        <dingil_mesafesi birim='cm'>1629</dingil_mesafesi>
+        <yakit_tuketimi birim='lt'>12.4</yakit_tuketimi>
+    </otomobil>
+</otomobiller>

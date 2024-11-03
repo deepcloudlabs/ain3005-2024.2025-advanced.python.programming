@@ -1,0 +1,17 @@
+XML = data + metadata
+      text
+      hierarchical
+      validation: XML Schema (XSD)
+      tag technology
+
+XML: M2M Integration -> B2B
+
+XML Processing:
+ i. well-formed
+ii. xml schema -> valid!
+
+XML Parser Architecture
+1. SAX Parser
+   read-only, event-driven, fast, memory efficient
+2. DOM Parser
+   read-write
