@@ -291,13 +291,16 @@ symbols = ["ETHBTC", "LTCBTC", "BNBBTC", "NEOBTC", "QTUMETH", "EOSETH", "SNTETH"
            "1000SATSUSDC"]
 
 
+executor = ThreadPoolExecutor(max_workers=128)
+
 async def get_ticker(symbol: str) -> dict:
+    global executor
     loop = asyncio.get_event_loop()
-    return await loop.run_in_executor(None, lambda: requests.get(f"https://api.binance.com/api/v3/ticker/price?symbol={symbol}"))
+    return await loop.run_in_executor(executor, lambda: requests.get(f"https://api.binance.com/api/v3/ticker/price?symbol={symbol}"))
 
 
 async def get_all_tickers(symbols: list[str]) -> list[str]:
-    return await asyncio.gather(*[get_ticker(symbol) for symbol in symbols])
+    return await asyncio.gather(*[get_ticker(symbol) for symbol in symbols[:100]])
 
 
 async def application():
