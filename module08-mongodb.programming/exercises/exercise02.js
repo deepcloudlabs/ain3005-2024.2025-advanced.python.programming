@@ -1,0 +1,1 @@
+printjson(db.countries.find({"continent": "Asia"},{"name": true, "_id": false}));
