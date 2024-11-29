@@ -4,6 +4,8 @@ Layered Applications:
 - Application Layer: Pure Python
 - Data Access Layer: PyMongo
 """
+import json
+
 from flask import Flask, jsonify, request
 from flask_socketio import SocketIO
 from pymongo import MongoClient
@@ -39,6 +41,7 @@ socketio = SocketIO(hr_rest_api)
 mongo_client = MongoClient('localhost', 27017)
 hrdb = mongo_client["hrdb"]
 employees_collection = hrdb["employees"]
+updatable_fields = ["fullname", "salary", "iban", "fulltime"]
 
 
 # GET http://localhost:5500/employees/11111111110
@@ -46,11 +49,44 @@ employees_collection = hrdb["employees"]
 def get_employee_by_identity(identity: str):
     return jsonify(employees_collection.find_one({"identity": identity}, {"_id": False}))
 
+
+# GET http://localhost:5500/employees?page=0&size=5
+@hr_rest_api.route('/employees', methods=['GET'])
+def get_employees_by_page():
+    page = int(request.args.get("page"))
+    size = int(request.args.get("size"))
+    print(page, size)
+    return json.dumps([emp for emp in
+                       employees_collection.find(filter={}, projection={"_id": False}, skip=(page * size), limit=size)])
+
+
 # POST http://localhost:5500/employees
 @hr_rest_api.route('/employees', methods=['POST'])
 def hire_employee():
     employee = request.get_json()
     employees_collection.insert_one(employee)
+    return jsonify({"status": "OK"})
+
+
+def extract_updatable_fields(body, fields):
+    updatable_body = {}
+    for field in fields:
+        if field in body:
+            updatable_body[field] = body[field]
+    return updatable_body
+
+
+# PUT http://localhost:5500/employees
+@hr_rest_api.route('/employees/<identity>', methods=['PUT', 'PATCH'])
+def update_employee(identity: str):
+    global updatable_fields
+    employee = request.get_json()
+    employee = extract_updatable_fields(employee, updatable_fields)
+    employees_collection.find_one_and_update(
+        {"identity": identity},
+        {"$set": employee},
+        upsert=False
+    )
     return jsonify({"status": "OK"})
 
 
