@@ -42,7 +42,7 @@ socketio = SocketIO(hr_rest_api, cors_allowed_origins="*")
 mongo_client = MongoClient('localhost', 27017)
 hrdb = mongo_client["hrdb"]
 employees_collection = hrdb["employees"]
-updatable_fields = ["fullname", "salary", "iban", "fulltime"]
+updatable_fields = ["fullname", "salary", "iban", "fulltime", "department"]
 
 
 # GET http://localhost:5500/employees/11111111110
@@ -66,6 +66,7 @@ def get_employees_by_page():
 def hire_employee():
     employee = request.get_json()
     employees_collection.insert_one(employee)
+    socketio.emit("hire", employee)
     return jsonify({"status": "OK"})
 
 
@@ -88,6 +89,7 @@ def update_employee(identity: str):
         {"$set": employee},
         upsert=False
     )
+    socketio.emit("update", employee)
     return jsonify({"status": "OK"})
 
 
@@ -96,6 +98,7 @@ def update_employee(identity: str):
 def fire_employee(identity: str):
     emp = employees_collection.find_one({"identity": identity}, {"_id": False})
     employees_collection.delete_one({"identity": identity})
+    socketio.emit("fire", {"identity": identity})
     return jsonify(emp)
 
 cors = CORS(hr_rest_api)
