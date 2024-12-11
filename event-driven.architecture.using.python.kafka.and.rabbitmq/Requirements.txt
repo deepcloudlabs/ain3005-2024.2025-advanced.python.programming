@@ -1,0 +1,4 @@
+pymongo
+websockets
+kafka-python
+pika
